@@ -25,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=#73daca&color_dots=#1a1b2e,#3d59a1,#70a5fd,#bb9af7,#ff9e64
 
       - name: Commit and push output
         uses: EndBug/add-and-commit@v9

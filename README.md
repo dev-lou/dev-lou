@@ -171,7 +171,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 <div align="center">
 <br/>
 
-*"First, solve the problem. Then, write the code."*
+*"Coding is no longer about syntax; it's about context, architecture, and orchestrating AI."*
 
 <br/>
 
