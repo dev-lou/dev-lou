@@ -1,14 +1,16 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=5" width="100%" alt="dev-lou banner" />
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=6" width="100%" alt="dev-lou banner" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I'm+Lou+%F0%9F%91%8B;Full+Stack+Web+%26+Mobile+Engineer;PHP+%7C+Laravel+%7C+Python+%7C+Flutter+%7C+React;Building+production-ready+applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- HERO SPOTLIGHT -->
+# Hi there, I'm Lou 👋
+### 👨‍💻 CTO & Co-Founder at Syntaxure Labs 🚀
 
-<!-- PROFILE VIEWS -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Web+%26+Mobile+Architect;PHP+%7C+Laravel+%7C+Python+%7C+Flutter+%7C+Svelte;Building+secure+%26+highly-scalable+systems;AI-Native+Automated+Developer+Workflow+%F0%9F%A4%96)](https://git.io/typing-svg)
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=dev-lou&label=Profile+Views&color=0e75b6&style=flat-square" alt="dev-lou profile views" />
 </p>
@@ -20,12 +22,33 @@
 <!-- 👋 INTRODUCTION -->
 ## 👋 About Me
 
-I am a **Full Stack Software Engineer** specializing in building secure, highly scalable, and real-time systems. I design and build production-ready applications combining web portals, cross-platform mobile apps, IoT access controls, and AI microservices. 
+I am a **Full Stack Software Architect** and the **CTO & Co-Founder of Syntaxure Labs**. I specialize in designing and engineering secure, highly scalable real-time systems, cross-platform mobile apps, IoT integrations, and neuro-symbolic AI engines. 
 
 *   📍 **Location:** Philippines 🇵🇭
-*   🚀 **Core Tech:** Laravel (PHP), Flask/FastAPI (Python), React Native & Flutter, Next.js (TypeScript)
-*   💡 **Specialties:** Real-time WebSockets synchronization, WebGL 3D, Computer Vision (YOLO/OpenCV), Biometric Authentication
-*   🔧 **Current Focus:** Integrating neuro-symbolic AI engines into civic and enterprise reporting systems
+*   🚀 **Core Architecture:** Laravel (PHP), FastAPI/Flask (Python), Next.js, React Native, Svelte, and Flutter
+*   💡 **Design Specialties:** Multi-user WebSockets state-sync, WebGL 3D engines, Computer Vision (YOLOv11/OpenCV), Biometric Authentication
+*   🤖 **AI-Native Engineering:** Optimizing high-speed AI coding flows using custom `.cursorrules`, `.windsurfrules`, and context-driven `skills.md` libraries to build production code in seconds.
+
+<br/>
+
+---
+
+<!-- 🤖 AI-NATIVE DEVELOPER STACK & WORKSPACE -->
+## 🤖 AI-Native IDEs & Workspace
+
+I orchestrate my development using modern, AI-powered IDEs and custom context engines:
+
+<p>
+  <img src="https://img.shields.io/badge/Antigravity_AI-FF00FF?style=for-the-badge&logoColor=white" alt="Antigravity AI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor_IDE-00E5FF?style=for-the-badge&logoColor=white" alt="Cursor IDE" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Windsurf_IDE-1282F6?style=for-the-badge&logoColor=white" alt="Windsurf IDE" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Zed_IDE-000000?style=for-the-badge&logo=zed&logoColor=white" alt="Zed IDE" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Context--Engine-skills.md-4CAF50?style=for-the-badge&logo=markdown&logoColor=white" alt="skills.md context" />
+</p>
 
 <br/>
 
@@ -43,7 +66,12 @@ I am a **Full Stack Software Engineer** specializing in building secure, highly 
 
 **Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,reactnative,expo,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,svelte,tailwind,bootstrap&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 **Backend & Frameworks**
@@ -51,9 +79,16 @@ I am a **Full Stack Software Engineer** specializing in building secure, highly 
   <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express&theme=dark" />
 </p>
 
-**Databases & Real-time Services**
+**Cloud Databases & Real-time backends**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Convex-FF7A00?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Turso_DB-00E5FF?style=for-the-badge&logo=turso&logoColor=black" alt="Turso" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Neon_Postgres-00E676?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
 </p>
 
 **AI & Computer Vision**
@@ -83,10 +118,31 @@ I am a **Full Stack Software Engineer** specializing in building secure, highly 
 
 ---
 
+<!-- ⚡ DEVOPS & SUPPLY CHAIN AUTOMATION WORKFLOW -->
+## ⚡ DevOps & Automated Supply-Chain Workflow
+
+I run production-grade development workflows in all my repositories to guarantee software safety, dependency integrity, and automated release delivery:
+
+| # | Tool / Integration | What It Does | Role in Workflow |
+|---|---|---|---|
+| **1** | **Husky + lint-staged** | Runs code quality, style, and formatting checks only on staged files before commit. | *Prevents broken code from entering git.* |
+| **2** | **Commitlint** | Automatically validates and rejects commits that do not follow Conventional Commits formatting. | *Enforces clean, parsing-ready changelogs.* |
+| **3** | **Changesets** | Automates versioning, changelog generation, and monorepo release orchestration dynamically. | *Frictionless automated npm / docker releases.* |
+| **4** | **CODEOWNERS** | Automatically assigns the correct domain experts for PR reviews depending on which files changed. | *Critical for teams and repository scaling.* |
+| **5** | **.editorconfig** | Ensures absolute consistency in indentation (tabs vs spaces), character sets, and line endings. | *Cross-IDE workspace standardization.* |
+| **6** | **Gitleaks CI** | Automated security sweeps to instantly detect and reject commits with leaked API secrets, credentials, or keys. | *High-security, zero-leak dev environment.* |
+| **7** | **Renovate Bot** | Continuously monitors, tests, and auto-merges secure, up-to-date third-party package dependencies. | *Zero-maintenance automated updates.* |
+| **8** | **Socket Security Bot** | Blocks supply-chain threats by scanning packages for malware, telemetry, and security vulnerability risks. | *Proactive supply-chain dependency defense.* |
+| **9** | **Codium PR Agent** | AI-powered Pull Request agent that automatically summarizes changes, suggests tests, and reviews code. | *Accelerated, thorough AI code reviews.* |
+
+<br/>
+
+---
+
 <!-- 🏆 SELECTED PROJECTS (REAL AND VERIFIED FROM DESKTOP & HTDOCS) -->
 ## 🔥 Featured Systems & Projects
 
-Here are some of the advanced projects I have built, showcasing end-to-end full-stack systems engineering:
+Here are some of the advanced systems I have engineered, showcasing end-to-end full-stack systems architecture:
 
 ### 🏠 Best-of-Best Enterprise & Capstone Projects
 *   **SpatialSync (Collaborative 3D Architectural Engine):** A browser-native multi-user 3D building designer powered by **Three.js (WebGL)**, **Alpine.js**, **Laravel 11/12**, and **Supabase Realtime WebSockets** for sub-second state sync. Features passwordless biometric (face) recognition login using `face-api.js` (TensorFlow) run 100% on the client, in-app persistent chat, and automated 2D blueprint PDF generation.
