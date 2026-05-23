@@ -1,115 +1,81 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="assets/banner.png" width="100%" alt="dev-lou banner" />
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=4" width="100%" alt="dev-lou banner" />
 
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hey+there%2C+I'm+Lou+%F0%9F%91%8B;Full+Stack+Web+%26+Mobile+Developer;PHP+%7C+Laravel+%7C+Python+%7C+React;Building+real+systems+that+actually+work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I'm+Lou+%F0%9F%91%8B;Full+Stack+Web+%26+Mobile+Engineer;PHP+%7C+Laravel+%7C+Python+%7C+Flutter+%7C+React;Building+production-ready+applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- PROFILE VIEWS & SOCIALS ROW -->
+<!-- PROFILE VIEWS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=dev-lou&label=Profile+Views&color=0e75b6&style=flat" alt="dev-lou profile views" />
-  &nbsp;
-  <a href="https://github.com/dev-lou?tab=followers">
-    <img src="https://img.shields.io/github/followers/dev-lou?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/dev-lou?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=dev-lou&label=Profile+Views&color=0e75b6&style=flat-square" alt="dev-lou profile views" />
 </p>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-## 👨‍💻 About Me
+<!-- 👋 INTRODUCTION -->
+## 👋 About Me
 
-```ts
-const lou = {
-  role        : "Full Stack Developer",
-  location    : "🌏 Philippines",
-  focus       : ["Web Systems", "Mobile Apps", "IoT + AI"],
-  building    : "Smart systems that solve real campus & community problems",
-  stack       : ["PHP/Laravel", "Python/Flask", "React Native/Expo", "Next.js"],
-  databases   : ["MySQL", "PostgreSQL", "SQLite", "Firebase"],
-  currentlyLearning : ["AI/ML Integration", "Computer Vision", "Cloud Deployment"],
-  funFact     : "I built a face recognition smart gate that runs on a Raspberry Pi 🍓",
-  askMeAbout  : ["Laravel", "Flask", "React Native", "OpenCV", "Supabase"],
-};
-```
+I am a **Full Stack Software Engineer** specializing in building secure, highly scalable, and real-time systems. I design and build production-ready applications combining web portals, cross-platform mobile apps, IoT access controls, and AI microservices. 
+
+*   📍 **Location:** Philippines 🇵🇭
+*   🚀 **Core Tech:** Laravel (PHP), Flask/FastAPI (Python), React Native & Flutter, Next.js (TypeScript)
+*   💡 **Specialties:** Real-time WebSockets synchronization, WebGL 3D, Computer Vision (YOLO/OpenCV), Biometric Authentication
+*   🔧 **Current Focus:** Integrating neuro-symbolic AI engines into civic and enterprise reporting systems
 
 <br/>
 
 ---
 
-<!-- TECH STACK -->
+<!-- 🛠️ TECH STACK -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=php,python,js,ts,cs,html,css&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&theme=dark" />
+</p>
 
 **Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" />
-
-<img src="https://skillicons.dev/icons?i=reactnative,expo&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,reactnative,expo,tailwind,bootstrap&theme=dark" />
+</p>
 
 **Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=laravel,flask&theme=dark" />
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase,aws&theme=dark" />
-
-**AI / Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=opencv,python&theme=dark" />
-
 <p>
-  <img src="https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white" alt="YOLO" />
+  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express&theme=dark" />
+</p>
+
+**Databases & Real-time Services**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase&theme=dark" />
+</p>
+
+**AI & Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   &nbsp;
-  <img src="https://img.shields.io/badge/face--recognition-dlib-FF6B6B?style=for-the-badge&logoColor=white" alt="face-recognition" />
+  <img src="https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white" alt="YOLOv11" />
   &nbsp;
   <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/face--api.js-TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="face-api.js" />
 </p>
 
 **Hardware & IoT**
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
+</p>
 
 **Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,xampp&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-<!-- PROJECTS HIGHLIGHT -->
-## 🔥 What I've Built
-
-<div align="center">
-
-| 🏗️ Project | 🛠️ Stack | 📌 Highlight |
-|---|---|---|
-| 🚪 IoT Smart Gate | Python · OpenCV · YOLO · RPi · Next.js · Supabase | Face recognition + RFID + uniform detection |
-| 🏥 Clinic Records System | Flask · PostgreSQL · SocketIO · Gemini AI | Real-time queue, QR codes, AI chatbot |
-| 🛒 Dept. E-Commerce Platform | Laravel 11 · MySQL · AWS S3 · Breeze | Full store with auth, orders, file storage |
-| 📱 Meal Planner App | React Native · Expo · Drizzle ORM · SQLite | Cross-platform mobile with offline support |
-| 🍔 Campus Food Ordering | Laravel 12 · Tailwind · Vite | Real-time food ordering for campus |
-| 🎮 Pokémon-Style 2D Game | Tiled · Custom Engine · JS | Turn-based 2D RPG adventure game |
-| 💼 Developer Portfolio | React · Vite · Framer Motion · GSAP · Supabase | Animated portfolio with live contact form |
-| 🏫 21+ PHP Web Systems | PHP · MySQL · Bootstrap | Student, clinic, hotel, HR management systems |
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,xampp&theme=dark" />
+</p>
 
 </div>
 
@@ -117,24 +83,49 @@ const lou = {
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+<!-- 🏆 SELECTED PROJECTS (REAL AND VERIFIED FROM DESKTOP & HTDOCS) -->
+## 🔥 Featured Systems & Projects
+
+Here are some of the advanced projects I have built, showcasing end-to-end full-stack systems engineering:
+
+### 🏠 Best-of-Best Enterprise & Capstone Projects
+*   **SpatialSync (Collaborative 3D Architectural Engine):** A browser-native multi-user 3D building designer powered by **Three.js (WebGL)**, **Alpine.js**, **Laravel 11/12**, and **Supabase Realtime WebSockets** for sub-second state sync. Features passwordless biometric (face) recognition login using `face-api.js` (TensorFlow) run 100% on the client, in-app persistent chat, and automated 2D blueprint PDF generation.
+*   **LikasLens (Neuro-Symbolic AI Civic Reporting Platform):** A smart community watchdog monorepo consisting of a **Next.js 16 App Router PWA** frontend, a **Laravel 12 API** backend connected to a **Supabase PostgreSQL** instance, and a **FastAPI (Python)** microservice backend integrating **Google Generative AI (Gemini)** for automated image analysis, legal-code parsing, and routing.
+*   **Brew & Co. (Coffee Ordering App):** A gorgeous, responsive mobile application written from scratch in **Flutter (Dart)** for cross-platform iOS and Android beverage orders.
+*   **IoT Smart Gate Access Control System:** An automated school gate integration running on **Raspberry Pi** using **Python, OpenCV, and YOLOv11** for facial recognition, RFID/fingerprint reader sync, and school uniform compliance check. Powered by a **Next.js & Supabase** dashboard.
+*   **Clinic Appointment & Medical Records System:** A production-grade **Flask (Python)** application featuring real-time queue boards via **Socket.IO**, QR code check-ins, medical inventory tracking, and **Supabase** storage integration.
+
+### 🌐 Full-Stack Web Applications
+*   **Department E-Commerce Platform:** Built on **Laravel 11**, using **Vite**, **Tailwind CSS**, and **AWS S3** for secure asset distribution. Includes automatic invoice downloads via `barryvdh/laravel-dompdf` and Laravel Breeze authentication.
+*   **Personal Recipe & Meal Planner App:** A cross-platform offline-first mobile app built using **React Native (Expo)** with **Drizzle ORM** and **SQLite** for instant storage query optimizations.
+*   **Campus Food Ordering System:** A full-stack ordering dashboard built with **Laravel 12**, **Tailwind CSS**, and **Vite**.
+*   **21+ Custom PHP Web Portals:** Built with native **PHP**, **MySQL**, and **Bootstrap/SweetAlert2**—encompassing hotel booking engines, faculty evaluations, grading systems, and student records portals.
+
+<br/>
+
+---
+
+<!-- 📊 DYNAMIC GITHUB STATS (AUTO-GENERATED BASED ON REAL ACCOUNT DATA) -->
+## 📊 Live GitHub Analytics
+
+These analytics auto-generate and update dynamically based on real activity on my account:
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dev-lou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="dev-lou GitHub stats" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dev-lou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="dev-lou GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="dev-lou top languages" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dev-lou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="dev-lou top languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- STREAK STATS -->
 <img src="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="dev-lou GitHub streak" />
 
 </div>
@@ -143,12 +134,12 @@ const lou = {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- 📈 WEEKLY CONTRIBUTION GRAPH -->
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![dev-lou's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![dev-lou's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -156,7 +147,7 @@ const lou = {
 
 ---
 
-<!-- TROPHIES -->
+<!-- 🏆 ACHIEVEMENTS -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -169,7 +160,7 @@ const lou = {
 
 ---
 
-<!-- SNAKE ANIMATION -->
+<!-- 🐍 CONTRIBUTION SNAKE GAME -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -186,7 +177,7 @@ const lou = {
 
 ---
 
-<!-- CONNECT -->
+<!-- 🤝 CONNECT -->
 ## 🤝 Connect With Me
 
 <div align="center">
