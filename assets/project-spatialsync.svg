@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" fill="none">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#70a5fd" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#2ac3de" stop-opacity="0.2" />
+    </linearGradient>
+    <style>
+      .bg { fill: #0d1117; stroke: url(#accent); stroke-width: 2; transition: all 0.3s ease; }
+      .bg:hover { fill: #1a1b2e; }
+      .title { fill: #a9b1d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; }
+      .subtitle { fill: #70a5fd; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; font-style: italic; }
+      .desc { fill: #7a88cf; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 400; line-height: 1.5; }
+      .badge-bg { fill: #1a1b2e; stroke-width: 1; rx: 4; }
+      .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; font-weight: 600; fill: #a9b1d6; }
+      @keyframes float { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-2px) } }
+      .ico { animation: float 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="396" height="176" x="2" y="2" rx="12" />
+
+  <!-- Icon -->
+  <g class="ico" transform="translate(20, 20)" stroke="#70a5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="10" cy="10" r="8" />
+    <path d="M2 10h16 M10 2a12 12 0 0 0 0 16 M10 2a12 12 0 0 1 0 16" />
+  </g>
+
+  <!-- Text Content -->
+  <text x="50" y="35" class="title">SpatialSync <tspan fill="#565f89">· Live</tspan></text>
+  <text x="20" y="60" class="subtitle">Collaborative 3D Architectural Engine</text>
+  
+  <text x="20" y="85" class="desc">Browser-native multi-user 3D builder with real-time</text>
+  <text x="20" y="105" class="desc">sync, biometric face-login, and scrollytelling.</text>
+
+  <!-- Badges -->
+  <g transform="translate(20, 135)">
+    <!-- Three.js -->
+    <rect class="badge-bg" width="60" height="22" stroke="#ffffff" />
+    <text x="8" y="15" class="badge-text" fill="#ffffff">Three.js</text>
+
+    <!-- Supabase -->
+    <g transform="translate(68, 0)">
+      <rect class="badge-bg" width="70" height="22" stroke="#3ECF8E" />
+      <text x="8" y="15" class="badge-text">Supabase</text>
+    </g>
+
+    <!-- Laravel -->
+    <g transform="translate(146, 0)">
+      <rect class="badge-bg" width="55" height="22" stroke="#FF2D20" />
+      <text x="8" y="15" class="badge-text">Laravel</text>
+    </g>
+
+    <!-- TensorFlow -->
+    <g transform="translate(209, 0)">
+      <rect class="badge-bg" width="80" height="22" stroke="#FF6F00" />
+      <text x="8" y="15" class="badge-text">TensorFlow</text>
+    </g>
+  </g>
+</svg>
