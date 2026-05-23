@@ -85,7 +85,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 <!-- Dropdown Accordions — Using <img> references (GitHub strips inline SVGs) -->
 
 <details>
-<summary><picture><img src="assets/summary-archive.svg?v=5" width="100%" alt="View all projects" /></picture></summary>
+<summary><picture><img src="assets/summary-archive.svg?v=7" width="100%" alt="View all projects" /></picture></summary>
 <br/>
 
 <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/archive-row-1.svg?v=6" width="100%" /></a><br/>
@@ -101,7 +101,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-cloudflare.svg?v=5" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
+<summary><picture><img src="assets/summary-cloudflare.svg?v=7" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
 <br/>
 
 <img src="assets/table-cloudflare.svg?v=6" width="100%" />
@@ -109,7 +109,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-ai.svg?v=5" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
+<summary><picture><img src="assets/summary-ai.svg?v=7" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
 <br/>
 
 I leverage specialized AI agents and structured configuration parameters to build production systems rapidly:
@@ -119,7 +119,7 @@ I leverage specialized AI agents and structured configuration parameters to buil
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-devops.svg?v=5" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
+<summary><picture><img src="assets/summary-devops.svg?v=7" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
 <br/>
 
 My repositories run continuous automation pipelines that enforce code style, security standards, and smooth releases:
