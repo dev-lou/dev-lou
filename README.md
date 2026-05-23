@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated neon banner -->
-<img src="assets/banner-animated.svg?v=2" width="100%" alt="dev-lou — Full Stack Architect & AI-Native Developer" />
+<img src="assets/banner-v3.svg" width="100%" alt="dev-lou — Full Stack Architect & AI-Native Developer" />
 
 
 <br/><br/>
