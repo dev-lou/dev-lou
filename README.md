@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png" width="100%" alt="Lou Vincent — Full Stack Developer" />
+<img src="assets/banner.png" width="100%" alt="Lou Vincent — Full Stack Developer" />
 
 <br/><br/>
 
@@ -50,7 +50,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 
 <br/>
 
-**Databases & Realtime (not on skillicons)**
+**Edge & Realtime Databases**
 
 [![Convex](https://img.shields.io/badge/Convex-EE5522?style=for-the-badge&logoColor=white)](https://convex.dev)
 [![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logoColor=black)](https://turso.tech)
@@ -69,80 +69,149 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**[SpatialSync](https://github.com/dev-lou/SpatialSync)** &nbsp;·&nbsp; [↗ Live](https://spatialsync.isufstcict.com/)
+### 🌐 **[SpatialSync](https://github.com/dev-lou/SpatialSync)** · [↗ Live](https://spatialsync.isufstcict.com/)
+*Collaborative 3D Architectural Engine*
 
-Collaborative 3D Architectural Engine
+Browser-native multi-user 3D builder with real-time sync, biometric face-login, and scroll-triggered transitions.
 
-Browser-native multi-user 3D builder with **Three.js WebGL**, **Supabase Realtime** WebSockets, biometric face-login via `face-api.js`, and a scrollytelling landing page with video-to-frame scroll-triggered sequences.
-
-`Blade` `Three.js` `Alpine.js` `Supabase` `TensorFlow`
+<div style="margin: 8px 0;">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-**[Cict-Store](https://github.com/dev-lou/Cict-Store)**
+### 🛒 **[Cict-Store](https://github.com/dev-lou/Cict-Store)**
+*Department E-Commerce Platform*
 
-Department E-Commerce Platform
+Full-stack e-commerce system with product catalogs, order lifecycle queues, automated PDF invoicing, and secure Breeze auth.
 
-Full-stack e-commerce system with product management, order tracking, automated PDF invoicing, and Breeze authentication.
-
-`Laravel` `Blade` `MySQL` `Tailwind`
+<div style="margin: 8px 0;">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[clinic](https://github.com/dev-lou/clinic)**
+### 🏥 **[clinic](https://github.com/dev-lou/clinic)**
+*Healthcare Records Portal*
 
-Healthcare Records System
+Healthcare clinic tracker featuring real-time Socket.io dashboards, automated QR code check-ins, and Gemini AI chatbot integration.
 
-Production-grade clinic portal with real-time **Socket.IO** queue boards, QR code check-ins, and AI chatbot integration.
-
-`Flask` `Socket.IO` `Python` `Gemini AI`
+<div style="margin: 8px 0;">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-**[OJT-Qr-Pass](https://github.com/dev-lou/OJT-Qr-Pass)** &nbsp;·&nbsp; [↗ Live](https://ojt-qr.vercel.app)
+### 🎫 **[OJT-Qr-Pass](https://github.com/dev-lou/OJT-Qr-Pass)** · [↗ Live](https://ojt-qr.vercel.app)
+*QR Attendance System*
 
-QR-Based Attendance System
+Vercel-optimized student OJT tracking app with client QR generators, instant edge validation, and metrics dashboards.
 
-Streamlined OJT attendance tracking with QR code generation, real-time validation, and dashboard reporting.
-
-`JavaScript` `Vercel`
+<div style="margin: 8px 0;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-[![SpatialSync](https://github-readme-stats.vercel.app/api/pin/?username=dev-lou&repo=SpatialSync&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6)](https://github.com/dev-lou/SpatialSync)
-[![PixelPilot](https://github-readme-stats.vercel.app/api/pin/?username=dev-lou&repo=PixelPilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6)](https://github.com/dev-lou/PixelPilot)
-
-</div>
-
-<details>
-<summary><strong>&nbsp;&nbsp;View all projects &nbsp;(click to expand)</strong></summary>
-
 <br/>
 
-| Repo | Stack | Live |
-|------|-------|------|
-| [SpatialSync](https://github.com/dev-lou/SpatialSync) | Laravel · Three.js · Supabase · TensorFlow | [spatialsync.isufstcict.com](https://spatialsync.isufstcict.com/) |
-| [Cict-Store](https://github.com/dev-lou/Cict-Store) | Laravel · Blade · MySQL · Tailwind | — |
-| [OJT-Qr-Pass](https://github.com/dev-lou/OJT-Qr-Pass) | JavaScript · Node | [ojt-qr.vercel.app](https://ojt-qr.vercel.app) |
-| [CICT-QR](https://github.com/dev-lou/CICT-QR) | JavaScript | [cict-qr.vercel.app](https://cict-qr.vercel.app) |
-| [clinic](https://github.com/dev-lou/clinic) | Flask · Socket.IO · Python | — |
-| [PixelPilot](https://github.com/dev-lou/PixelPilot) | JavaScript · AI Rules Engine | — |
-| [BaroroStudio](https://github.com/dev-lou/BaroroStudio) | TypeScript | [baroro-studio.vercel.app](https://baroro-studio.vercel.app) |
-| Church-QR | JavaScript | — |
-| 21+ PHP Portals | PHP · MySQL · Bootstrap | Various |
+<!-- Dropdown Accordions using Premium Interactive SVGs -->
+
+<details>
+<summary style="cursor: pointer; outline: none; list-style: none;">
+  <img src="assets/summary-archive.svg" width="100%" alt="Secondary &amp; Archived Projects (Click to expand)" />
+</summary>
+<br/>
+
+| Project Repository | Core Technologies &amp; Stack | Deployment URL / Live Target | Description &amp; Scope |
+|:---|:---|:---|:---|
+| **[SpatialSync](https://github.com/dev-lou/SpatialSync)** | Laravel · Three.js · Supabase · TensorFlow | [spatialsync.isufstcict.com](https://spatialsync.isufstcict.com/) | 3D Architect engine, face-biometrics, scrollytelling |
+| **[Cict-Store](https://github.com/dev-lou/Cict-Store)** | Laravel · Blade · MySQL · Tailwind | — | Department E-Commerce suite with PDF invoices |
+| **[OJT-Qr-Pass](https://github.com/dev-lou/OJT-Qr-Pass)** | JavaScript · Node · Vercel | [ojt-qr.vercel.app](https://ojt-qr.vercel.app) | QR validation attendance dashboard |
+| **[CICT-QR](https://github.com/dev-lou/CICT-QR)** | JavaScript · CSS | [cict-qr.vercel.app](https://cict-qr.vercel.app) | Real-time event check-in platform |
+| **[clinic](https://github.com/dev-lou/clinic)** | Flask · Socket.IO · Python · Gemini | — | Clinic record portal with live AI chatbots |
+| **[PixelPilot](https://github.com/dev-lou/PixelPilot)** | JavaScript · Gemini API | — | Dynamic layout generator and optimization engine |
+| **[BaroroStudio](https://github.com/dev-lou/BaroroStudio)** | TypeScript · React | [baroro-studio.vercel.app](https://baroro-studio.vercel.app) | Fully interactive portfolio canvas |
+| **Church-QR** | JavaScript · Web Cryptography | — | Safe community registration database |
+| **21+ PHP Portals** | PHP · MySQL · Bootstrap | Various Local Intranets | Grading systems, faculty archives, student records |
+
+</details>
+
+<details>
+<summary style="cursor: pointer; outline: none; list-style: none;">
+  <img src="assets/summary-cloudflare.svg" width="100%" alt="Cloudflare &amp; Edge Infrastructure (Click to expand)" />
+</summary>
+<br/>
+
+| Performance Layer | Operational Optimization Tactics | End-User Performance Impact | Server Infrastructure Cost |
+|:---|:---|:---|:---|
+| **Serverless &amp; CDN** | Cloudflare Pages &amp; Workers integration, Tiered Cache topologies, Smart Routing | Instant page loading, edge compilation, zero latency globally | **$0** *(100% Free Tier)* |
+| **Asset Delivery** | Breadth Brotli/Gzip compression, HTTP/3 protocol, early static hints | Egress-free data transmission, minimal roundtrips | **$0** *(Bandwidth Exempt)* |
+| **Edge Storage** | Edge DB drivers (Neon Serverless, Turso SQLite, Supabase Edge client) | Millisecond edge query speeds, globally synced state | **$0** *(Edge DB Tiers)* |
+| **Edge Guarding** | Active edge WAF layers, automatic bot intercepts, TLS 1.3 enforced | Constant protection against DDoS, automatic zero-trust edge gates | **$0** *(Platform Standard)* |
+| **Auto-Devops** | Automatic multi-branch staging environments via DNS routing integrations | Auto-provisioned sandbox environments on git push | **$0** *(Pipeline Built-in)* |
+
+</details>
+
+<details>
+<summary style="cursor: pointer; outline: none; list-style: none;">
+  <img src="assets/summary-ai.svg" width="100%" alt="AI-Native Development Workflow (Click to expand)" />
+</summary>
+<br/>
+
+I leverage specialized AI agents and structured configuration parameters to build production systems rapidly:
+
+| Development Tool | Specific Co-Pilot Role | Operational Execution Mode |
+|:---|:---|:---|
+| **Antigravity** | Autonomous Architect &amp; Agent | Executes sweeping directory overrides, multi-file code refactors, and automated verification tasks |
+| **Cursor** | Context-Aware Inline Editor | Multi-file codebase index references (`@Codebase`), fast chat assistance, and structural rules |
+| **Windsurf** | Terminal-Loop Optimizer | Closes the loop between file writes, CLI test suites, and fast iterative debugging cycles |
+| **OpenCode** | Local Terminal Inference | Generates micro-scripts and parses local files without sending data to public clouds |
+| **Zed** | High-Velocity Text Editor | Super-lightweight IDE footprint, ultra-fast file loading, and low-latency code writing |
+
+</details>
+
+<details>
+<summary style="cursor: pointer; outline: none; list-style: none;">
+  <img src="assets/summary-devops.svg" width="100%" alt="DevOps &amp; Supply-Chain Automation (Click to expand)" />
+</summary>
+<br/>
+
+My repositories run continuous automation pipelines that enforce code style, security standards, and smooth releases:
+
+| Tooling Platform | Core DevSecOps Purpose | Automatic Pipeline Impact |
+|:---|:---|:---|
+| **Husky + lint-staged** | Git Pre-commit Lint Gates | Blocks malformed syntax, formatting drift, and console statements from being committed |
+| **Commitlint** | Semantic Branch Validation | Restricts commits to the Conventional Commits specification to keep changelogs neat |
+| **Changesets** | Release &amp; Changelog Automation | Tracks updates, auto-increments version tags (SemVer), and writes accurate changelogs |
+| **CODEOWNERS** | Directory-Level Code Reviews | Instantly tags the responsible maintainers on pull requests based on modified file paths |
+| **Gitleaks CI** | Zero-Cred Secrets Interceptor | Scrubs code pushes for private API keys, database strings, or accidental certificates |
+| **Renovate Bot** | Secure Dependency Updates | Watches dependencies for CVEs, auto-merging safe patch bumps once tests clear |
+| **Socket Security** | Supply-Chain Threat Blocker | Audits packages on install to catch malware, typo-squatting, or package hijackings |
+| **Codium PR Agent** | Automated AI Code Reviewer | Drafts comprehensive PR summaries, test case recommendations, and code safety reviews |
 
 </details>
 
@@ -174,51 +243,14 @@ Streamlined OJT attendance tracking with QR code generation, real-time validatio
 
 ---
 
-<details>
-<summary><strong>&nbsp;&nbsp;AI-Native Development Workflow &nbsp;(click to expand)</strong></summary>
-
-<br/>
-
-I pair every project with structured context files — `skills.md`, `rules.md`, `context.md` — that guide AI models for smarter, consistent code generation across all IDEs.
-
-| IDE | Role |
-|-----|------|
-| [Antigravity](https://antigravity.google/) | Agentic pair programming, automated tasks |
-| [Cursor](https://cursor.com/) | Inline generation, repo-wide context |
-| [Windsurf](https://windsurf.com/) | Reactive, high-velocity coding |
-| [OpenCode](https://opencode.ai/) | Free AI models via terminal |
-| [Zed](https://zed.dev/) | Ultra-fast Rust-based editing |
-
-</details>
-
-<details>
-<summary><strong>&nbsp;&nbsp;DevOps & Supply-Chain Automation &nbsp;(click to expand)</strong></summary>
-
-<br/>
-
-| Tool | Purpose |
-|------|---------|
-| Husky + lint-staged | Pre-commit code quality gates |
-| Commitlint | Conventional Commits enforcement |
-| Changesets | Automated versioning & changelogs |
-| CODEOWNERS | Auto-assigns PR reviewers by file path |
-| Gitleaks CI | Blocks leaked API keys and credentials |
-| Renovate Bot | Auto-merges secure dependency updates |
-| Socket Security | Supply-chain malware detection |
-| Codium PR Agent | AI-powered PR review and test suggestions |
-
-</details>
-
----
-
 ## Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img alt="Contribution snake animation" src="assets/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
