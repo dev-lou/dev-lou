@@ -26,7 +26,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-techstack.svg" width="100%" alt="Tech Stack" />
+<img src="assets/header-techstack.svg?v=2" width="100%" alt="Tech Stack" />
 
 <div align="center">
 
@@ -71,7 +71,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-projects.svg" width="100%" alt="Featured Projects" />
+<img src="assets/header-projects.svg?v=2" width="100%" alt="Featured Projects" />
 
 <table width="100%">
 <tr>
@@ -145,7 +145,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 <!-- Dropdown Accordions — Using <img> references (GitHub strips inline SVGs) -->
 
 <details>
-<summary><picture><img src="assets/summary-archive.svg" width="100%" alt="View all projects" /></picture></summary>
+<summary><picture><img src="assets/summary-archive.svg?v=2" width="100%" alt="View all projects" /></picture></summary>
 <br/>
 
 | Project | Stack | Live | Description |
@@ -163,7 +163,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-cloudflare.svg" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
+<summary><picture><img src="assets/summary-cloudflare.svg?v=2" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
 <br/>
 
 | Layer | Tactics | Performance Impact | Cost |
@@ -177,7 +177,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-ai.svg" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
+<summary><picture><img src="assets/summary-ai.svg?v=2" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
 <br/>
 
 I leverage specialized AI agents and structured configuration parameters to build production systems rapidly:
@@ -193,7 +193,7 @@ I leverage specialized AI agents and structured configuration parameters to buil
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-devops.svg" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
+<summary><picture><img src="assets/summary-devops.svg?v=2" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
 <br/>
 
 My repositories run continuous automation pipelines that enforce code style, security standards, and smooth releases:
@@ -213,7 +213,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-analytics.svg" width="100%" alt="GitHub Analytics" />
+<img src="assets/header-analytics.svg?v=2" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
 
@@ -229,7 +229,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-achievements.svg" width="100%" alt="Achievements" />
+<img src="assets/header-achievements.svg?v=2" width="100%" alt="Achievements" />
 
 <div align="center">
 
@@ -239,7 +239,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-snake.svg" width="100%" alt="Contribution Snake" />
+<img src="assets/header-snake.svg?v=2" width="100%" alt="Contribution Snake" />
 
 <div align="center">
 
