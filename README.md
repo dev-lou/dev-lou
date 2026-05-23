@@ -1,6 +1,10 @@
 <div align="center">
 
+<!-- Main Premium Visual Banner -->
 <img src="assets/banner.png" width="100%" alt="Lou Vincent — Full Stack Developer" />
+
+<!-- 2026 Wow-Factor Animated visual cyber-grid header -->
+<img src="assets/animated-header.svg" width="100%" alt="Lou Vincent — Cyber-Minimalist Architecture" />
 
 <br/><br/>
 
@@ -138,11 +142,48 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 
 <br/>
 
-<!-- Dropdown Accordions using Premium Interactive SVGs -->
+<!-- Dropdown Accordions using Inline Premium Interactive & Animated SVGs -->
 
 <details>
-<summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-archive.svg" width="96%" alt="Secondary &amp; Archived Projects (Click to expand)" />
+<summary style="cursor: pointer; list-style-type: none; display: flex; align-items: center; justify-content: space-between;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="64" viewBox="0 0 800 64" fill="none" style="display: block;">
+    <defs>
+      <linearGradient id="bg-grad-1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#1f2335" />
+        <stop offset="100%" stop-color="#16161e" />
+      </linearGradient>
+      <linearGradient id="blue-accent-1" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#70a5fd" />
+        <stop offset="100%" stop-color="#2ac3de" />
+      </linearGradient>
+      <filter id="glow-1" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+      <style>
+        @keyframes pulse-accent-1 { 0% { opacity: 0.8; } 50% { opacity: 1; filter: drop-shadow(0 0 2px #70a5fd); } 100% { opacity: 0.8; } }
+        @keyframes pulse-pill-1 { 0% { stroke-opacity: 0.4; fill-opacity: 0.1; } 50% { stroke-opacity: 0.9; fill-opacity: 0.2; } 100% { stroke-opacity: 0.4; fill-opacity: 0.1; } }
+        @keyframes slide-chevron-1 { 0% { transform: translateX(0); } 50% { transform: translateX(4px); } 100% { transform: translateX(0); } }
+        @keyframes float-icon-1 { 0% { transform: translateY(0px); } 50% { transform: translateY(-1.5px); } 100% { transform: translateY(0px); } }
+        .accent-bar-1 { animation: pulse-accent-1 2s infinite ease-in-out; }
+        .pill-border-1 { animation: pulse-pill-1 2.5s infinite ease-in-out; }
+        .chevron-1 { animation: slide-chevron-1 1.5s infinite ease-in-out; }
+        .animated-icon-1 { animation: float-icon-1 3s infinite ease-in-out; transform-origin: center; }
+      </style>
+    </defs>
+    <rect width="800" height="64" rx="8" fill="url(#bg-grad-1)" stroke="#30363d" stroke-width="1" />
+    <rect class="accent-bar-1" width="4" height="64" rx="2" fill="url(#blue-accent-1)" />
+    <g class="animated-icon-1" transform="translate(20, 20)" stroke="url(#blue-accent-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z" />
+    </g>
+    <text x="64" y="27" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1">SECONDARY &amp; ARCHIVED PROJECTS</text>
+    <text x="64" y="45" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" letter-spacing="0.5">21+ PHP Portals &amp; Legacy Systems  •  Full Academic suites &amp; web utilities</text>
+    <g transform="translate(650, 19)">
+      <rect class="pill-border-1" width="130" height="26" rx="13" fill="#1e2233" stroke="#2ac3de" stroke-width="1" filter="url(#glow-1)" />
+      <text x="16" y="17" fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1">CLICK TO EXPAND</text>
+      <path class="chevron-1" d="M110 9l4 4-4 4" stroke="#2ac3de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </svg>
 </summary>
 <br/>
 
@@ -161,8 +202,46 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 </details>
 
 <details>
-<summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-cloudflare.svg" width="96%" alt="Cloudflare &amp; Edge Infrastructure (Click to expand)" />
+<summary style="cursor: pointer; list-style-type: none; display: flex; align-items: center; justify-content: space-between;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="64" viewBox="0 0 800 64" fill="none" style="display: block;">
+    <defs>
+      <linearGradient id="bg-grad-2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#1f2335" />
+        <stop offset="100%" stop-color="#16161e" />
+      </linearGradient>
+      <linearGradient id="cloudflare-accent-2" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#ff9e64" />
+        <stop offset="100%" stop-color="#ff79c6" />
+      </linearGradient>
+      <filter id="glow-2" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+      <style>
+        @keyframes pulse-accent-2 { 0% { opacity: 0.8; } 50% { opacity: 1; filter: drop-shadow(0 0 2px #ff9e64); } 100% { opacity: 0.8; } }
+        @keyframes pulse-pill-2 { 0% { stroke-opacity: 0.4; fill-opacity: 0.1; } 50% { stroke-opacity: 0.9; fill-opacity: 0.2; } 100% { stroke-opacity: 0.4; fill-opacity: 0.1; } }
+        @keyframes slide-chevron-2 { 0% { transform: translateX(0); } 50% { transform: translateX(4px); } 100% { transform: translateX(0); } }
+        @keyframes float-icon-2 { 0% { transform: translateY(0px); } 50% { transform: translateY(-1.5px); } 100% { transform: translateY(0px); } }
+        .accent-bar-2 { animation: pulse-accent-2 2s infinite ease-in-out; }
+        .pill-border-2 { animation: pulse-pill-2 2.5s infinite ease-in-out; }
+        .chevron-2 { animation: slide-chevron-2 1.5s infinite ease-in-out; }
+        .animated-icon-2 { animation: float-icon-2 3s infinite ease-in-out; transform-origin: center; }
+      </style>
+    </defs>
+    <rect width="800" height="64" rx="8" fill="url(#bg-grad-2)" stroke="#30363d" stroke-width="1" />
+    <rect class="accent-bar-2" width="4" height="64" rx="2" fill="url(#cloudflare-accent-2)" />
+    <g class="animated-icon-2" transform="translate(20, 20)" stroke="url(#cloudflare-accent-2)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M19 16.9A5 5 0 0 0 18 7h-1.26a8 8 0 1 0-11.62 8.58" />
+      <polyline points="13 11 9 17 12 17 8 23" fill="url(#cloudflare-accent-2)" />
+    </g>
+    <text x="64" y="27" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1">CLOUDFLARE &amp; EDGE ARCHITECTURE</text>
+    <text x="64" y="45" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" letter-spacing="0.5">99.9% Cache Hit Rate  •  Edge compute  •  Zero-budget auto-scaling hosting strategies</text>
+    <g transform="translate(650, 19)">
+      <rect class="pill-border-2" width="130" height="26" rx="13" fill="#1e2233" stroke="#ff9e64" stroke-width="1" filter="url(#glow-2)" />
+      <text x="16" y="17" fill="#ff9e64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1">CLICK TO EXPAND</text>
+      <path class="chevron-2" d="M110 9l4 4-4 4" stroke="#ff9e64" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </svg>
 </summary>
 <br/>
 
@@ -177,8 +256,53 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 </details>
 
 <details>
-<summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-ai.svg" width="96%" alt="AI-Native Development Workflow (Click to expand)" />
+<summary style="cursor: pointer; list-style-type: none; display: flex; align-items: center; justify-content: space-between;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="64" viewBox="0 0 800 64" fill="none" style="display: block;">
+    <defs>
+      <linearGradient id="bg-grad-3" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#1f2335" />
+        <stop offset="100%" stop-color="#16161e" />
+      </linearGradient>
+      <linearGradient id="ai-accent-3" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#bb9af7" />
+        <stop offset="100%" stop-color="#ff007f" />
+      </linearGradient>
+      <filter id="glow-3" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+      <style>
+        @keyframes pulse-accent-3 { 0% { opacity: 0.8; } 50% { opacity: 1; filter: drop-shadow(0 0 2px #bb9af7); } 100% { opacity: 0.8; } }
+        @keyframes pulse-pill-3 { 0% { stroke-opacity: 0.4; fill-opacity: 0.1; } 50% { stroke-opacity: 0.9; fill-opacity: 0.2; } 100% { stroke-opacity: 0.4; fill-opacity: 0.1; } }
+        @keyframes slide-chevron-3 { 0% { transform: translateX(0); } 50% { transform: translateX(4px); } 100% { transform: translateX(0); } }
+        @keyframes float-icon-3 { 0% { transform: translateY(0px); } 50% { transform: translateY(-1.5px); } 100% { transform: translateY(0px); } }
+        .accent-bar-3 { animation: pulse-accent-3 2s infinite ease-in-out; }
+        .pill-border-3 { animation: pulse-pill-3 2.5s infinite ease-in-out; }
+        .chevron-3 { animation: slide-chevron-3 1.5s infinite ease-in-out; }
+        .animated-icon-3 { animation: float-icon-3 3s infinite ease-in-out; transform-origin: center; }
+      </style>
+    </defs>
+    <rect width="800" height="64" rx="8" fill="url(#bg-grad-3)" stroke="#30363d" stroke-width="1" />
+    <rect class="accent-bar-3" width="4" height="64" rx="2" fill="url(#ai-accent-3)" />
+    <g class="animated-icon-3" transform="translate(20, 20)" stroke="url(#ai-accent-3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <rect x="4" y="4" width="16" height="16" rx="2" />
+      <line x1="9" y1="1" x2="9" y2="4" />
+      <line x1="15" y1="1" x2="15" y2="4" />
+      <line x1="9" y1="20" x2="9" y2="23" />
+      <line x1="15" y1="20" x2="15" y2="23" />
+      <line x1="20" y1="9" x2="23" y2="9" />
+      <line x1="20" y1="15" x2="23" y2="15" />
+      <line x1="1" y1="9" x2="4" y2="9" />
+      <line x1="1" y1="15" x2="4" y2="15" />
+    </g>
+    <text x="64" y="27" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1">AI-NATIVE DEVELOPMENT WORKFLOW</text>
+    <text x="64" y="45" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" letter-spacing="0.5">Agentic Pair Programming  •  Context Engineering  •  skills/rules context structures</text>
+    <g transform="translate(650, 19)">
+      <rect class="pill-border-3" width="130" height="26" rx="13" fill="#1e2233" stroke="#bb9af7" stroke-width="1" filter="url(#glow-3)" />
+      <text x="16" y="17" fill="#bb9af7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1">CLICK TO EXPAND</text>
+      <path class="chevron-3" d="M110 9l4 4-4 4" stroke="#bb9af7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </svg>
 </summary>
 <br/>
 
@@ -195,8 +319,46 @@ I leverage specialized AI agents and structured configuration parameters to buil
 </details>
 
 <details>
-<summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-devops.svg" width="96%" alt="DevOps &amp; Supply-Chain Automation (Click to expand)" />
+<summary style="cursor: pointer; list-style-type: none; display: flex; align-items: center; justify-content: space-between;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="64" viewBox="0 0 800 64" fill="none" style="display: block;">
+    <defs>
+      <linearGradient id="bg-grad-4" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#1f2335" />
+        <stop offset="100%" stop-color="#16161e" />
+      </linearGradient>
+      <linearGradient id="devops-accent-4" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#73daca" />
+        <stop offset="100%" stop-color="#9ece6a" />
+      </linearGradient>
+      <filter id="glow-4" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+      <style>
+        @keyframes pulse-accent-4 { 0% { opacity: 0.8; } 50% { opacity: 1; filter: drop-shadow(0 0 2px #73daca); } 100% { opacity: 0.8; } }
+        @keyframes pulse-pill-4 { 0% { stroke-opacity: 0.4; fill-opacity: 0.1; } 50% { stroke-opacity: 0.9; fill-opacity: 0.2; } 100% { stroke-opacity: 0.4; fill-opacity: 0.1; } }
+        @keyframes slide-chevron-4 { 0% { transform: translateX(0); } 50% { transform: translateX(4px); } 100% { transform: translateX(0); } }
+        @keyframes float-icon-4 { 0% { transform: translateY(0px); } 50% { transform: translateY(-1.5px); } 100% { transform: translateY(0px); } }
+        .accent-bar-4 { animation: pulse-accent-4 2s infinite ease-in-out; }
+        .pill-border-4 { animation: pulse-pill-4 2.5s infinite ease-in-out; }
+        .chevron-4 { animation: slide-chevron-4 1.5s infinite ease-in-out; }
+        .animated-icon-4 { animation: float-icon-4 3s infinite ease-in-out; transform-origin: center; }
+      </style>
+    </defs>
+    <rect width="800" height="64" rx="8" fill="url(#bg-grad-4)" stroke="#30363d" stroke-width="1" />
+    <rect class="accent-bar-4" width="4" height="64" rx="2" fill="url(#devops-accent-4)" />
+    <g class="animated-icon-4" transform="translate(20, 20)" stroke="url(#devops-accent-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <polyline points="4 17 10 11 4 5" />
+      <line x1="12" y1="19" x2="20" y2="19" />
+    </g>
+    <text x="64" y="27" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1">DEVOPS &amp; SUPPLY-CHAIN AUTOMATION</text>
+    <text x="64" y="45" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" letter-spacing="0.5">Husky pre-commit gates  •  Commitlint SemVer automations  •  Gitleaks credentials auditing</text>
+    <g transform="translate(650, 19)">
+      <rect class="pill-border-4" width="130" height="26" rx="13" fill="#1e2233" stroke="#73daca" stroke-width="1" filter="url(#glow-4)" />
+      <text x="16" y="17" fill="#73daca" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1">CLICK TO EXPAND</text>
+      <path class="chevron-4" d="M110 9l4 4-4 4" stroke="#73daca" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </svg>
 </summary>
 <br/>
 
@@ -223,7 +385,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <img src="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=545d7a" width="48%" alt="GitHub Streak" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lou&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=8" width="40%" alt="Top Languages" />
+<img src="assets/top-languages.svg" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
