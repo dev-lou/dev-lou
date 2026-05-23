@@ -156,11 +156,15 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-3d-contrib.svg" width="100%" alt="3D Isometric Contributions" />
+<img src="assets/header-pacman.svg" width="100%" alt="Pac-Man Contributions" />
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric GitHub Contribution Calendar" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man Contribution Graph" src="dist/pacman-contribution-graph-dark.svg" width="100%" />
+</picture>
 
 </div>
 
