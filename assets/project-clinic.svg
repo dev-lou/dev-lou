@@ -20,7 +20,8 @@
   <rect class="bg" width="396" height="176" x="2" y="2" rx="12" />
 
   <!-- Icon -->
-  <g class="ico" transform="translate(20, 20)" stroke="#ff79c6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <g transform="translate(20, 20)">
+    <g class="ico" stroke="#ff79c6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
     <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
   </g>
 

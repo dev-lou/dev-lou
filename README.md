@@ -26,7 +26,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-techstack.svg?v=4" width="100%" alt="Tech Stack" />
+<img src="assets/header-techstack.svg?v=5" width="100%" alt="Tech Stack" />
 
 <div align="center">
 
@@ -71,13 +71,13 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-projects.svg?v=4" width="100%" alt="Featured Projects" />
+<img src="assets/header-projects.svg?v=5" width="100%" alt="Featured Projects" />
 
 <div align="center">
-  <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/project-spatialsync.svg?v=4" width="48%" alt="SpatialSync" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/project-cictstore.svg?v=4" width="48%" alt="Cict-Store" /></a><br/><br/>
-  <a href="https://github.com/dev-lou/clinic"><img src="assets/project-clinic.svg?v=4" width="48%" alt="clinic" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/project-ojt.svg?v=4" width="48%" alt="OJT-Qr-Pass" /></a>
+  <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/project-spatialsync.svg?v=5" width="48%" alt="SpatialSync" /></a>&nbsp;
+  <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/project-cictstore.svg?v=5" width="48%" alt="Cict-Store" /></a><br/><br/>
+  <a href="https://github.com/dev-lou/clinic"><img src="assets/project-clinic.svg?v=5" width="48%" alt="clinic" /></a>&nbsp;
+  <a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/project-ojt.svg?v=5" width="48%" alt="OJT-Qr-Pass" /></a>
 </div>
 
 <br/>
@@ -85,23 +85,23 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 <!-- Dropdown Accordions — Using <img> references (GitHub strips inline SVGs) -->
 
 <details>
-<summary><picture><img src="assets/summary-archive.svg?v=4" width="100%" alt="View all projects" /></picture></summary>
+<summary><picture><img src="assets/summary-archive.svg?v=5" width="100%" alt="View all projects" /></picture></summary>
 <br/>
 
-<a href="https://github.com/dev-lou/SpatialSync"><img src="assets/archive-row-1.svg?v=4" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/Cict-Store"><img src="assets/archive-row-2.svg?v=4" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/archive-row-3.svg?v=4" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/CICT-QR"><img src="assets/archive-row-4.svg?v=4" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/clinic"><img src="assets/archive-row-5.svg?v=4" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/PixelPilot"><img src="assets/archive-row-6.svg?v=4" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/BaroroStudio"><img src="assets/archive-row-7.svg?v=4" width="100%" /></a><br/>
-<a href="#"><img src="assets/archive-row-8.svg?v=4" width="100%" /></a><br/>
-<a href="#"><img src="assets/archive-row-9.svg?v=4" width="100%" /></a>
+<a href="https://github.com/dev-lou/SpatialSync"><img src="assets/archive-row-1.svg?v=5" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/Cict-Store"><img src="assets/archive-row-2.svg?v=5" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/archive-row-3.svg?v=5" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/CICT-QR"><img src="assets/archive-row-4.svg?v=5" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/clinic"><img src="assets/archive-row-5.svg?v=5" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/PixelPilot"><img src="assets/archive-row-6.svg?v=5" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/BaroroStudio"><img src="assets/archive-row-7.svg?v=5" width="100%" /></a><br/>
+<a href="#"><img src="assets/archive-row-8.svg?v=5" width="100%" /></a><br/>
+<a href="#"><img src="assets/archive-row-9.svg?v=5" width="100%" /></a>
 
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-cloudflare.svg?v=4" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
+<summary><picture><img src="assets/summary-cloudflare.svg?v=5" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
 <br/>
 
 | Layer | Tactics | Performance Impact | Cost |
@@ -115,34 +115,34 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-ai.svg?v=4" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
+<summary><picture><img src="assets/summary-ai.svg?v=5" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
 <br/>
 
 I leverage specialized AI agents and structured configuration parameters to build production systems rapidly:
 
-<img src="assets/table-ai.svg?v=4" width="100%" />
+<img src="assets/table-ai.svg?v=5" width="100%" />
 
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-devops.svg?v=4" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
+<summary><picture><img src="assets/summary-devops.svg?v=5" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
 <br/>
 
 My repositories run continuous automation pipelines that enforce code style, security standards, and smooth releases:
 
-<img src="assets/table-devops.svg?v=4" width="100%" />
+<img src="assets/table-devops.svg?v=5" width="100%" />
 
 </details>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-analytics.svg?v=4" width="100%" alt="GitHub Analytics" />
+<img src="assets/header-analytics.svg?v=5" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=545d7a" width="48%" alt="GitHub Streak" />
 &nbsp;
-<img src="assets/top-languages.svg?v=4" width="48%" alt="Top Languages" />
+<img src="assets/top-languages.svg?v=5" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
@@ -152,7 +152,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-achievements.svg?v=4" width="100%" alt="Achievements" />
+<img src="assets/header-achievements.svg?v=5" width="100%" alt="Achievements" />
 
 <div align="center">
 
@@ -162,7 +162,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-snake.svg?v=4" width="100%" alt="Contribution Snake" />
+<img src="assets/header-snake.svg?v=5" width="100%" alt="Contribution Snake" />
 
 <div align="center">
 
