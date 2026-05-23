@@ -1,18 +1,19 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=6" width="100%" alt="dev-lou banner" />
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=7" width="100%" alt="dev-lou banner" />
 
+<br/>
 <br/>
 
 <!-- HERO SPOTLIGHT -->
 # Hi there, I'm Lou 👋
-### 👨‍💻 CTO & Co-Founder at Syntaxure Labs 🚀
+### 🚀 CTO & Co-Founder at Syntaxure Labs
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Web+%26+Mobile+Architect;PHP+%7C+Laravel+%7C+Python+%7C+Flutter+%7C+Svelte;Building+secure+%26+highly-scalable+systems;AI-Native+Automated+Developer+Workflow+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=dev-lou&label=Profile+Views&color=0e75b6&style=flat-square" alt="dev-lou profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dev-lou&label=Profile+Views&color=36BCF7&style=flat-square" alt="dev-lou profile views" />
 </p>
 
 </div>
@@ -20,14 +21,14 @@
 ---
 
 <!-- 👋 INTRODUCTION -->
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a **Full Stack Software Architect** and the **CTO & Co-Founder of Syntaxure Labs**. I specialize in designing and engineering secure, highly scalable real-time systems, cross-platform mobile apps, IoT integrations, and neuro-symbolic AI engines. 
+I am a **Full Stack Software Architect** and the **CTO & Co-Founder of Syntaxure Labs**. I design and engineer secure, high-performance, and real-time systems combining web portals, cross-platform mobile apps, IoT integrations, and neuro-symbolic AI engines.
 
 *   📍 **Location:** Philippines 🇵🇭
 *   🚀 **Core Architecture:** Laravel (PHP), FastAPI/Flask (Python), Next.js, React Native, Svelte, and Flutter
 *   💡 **Design Specialties:** Multi-user WebSockets state-sync, WebGL 3D engines, Computer Vision (YOLOv11/OpenCV), Biometric Authentication
-*   🤖 **AI-Native Engineering:** Optimizing high-speed AI coding flows using custom `.cursorrules`, `.windsurfrules`, and context-driven `skills.md` libraries to build production code in seconds.
+*   🤖 **AI-Native Engineering:** Optimizing high-speed AI coding flows using custom `.cursorrules`, `.windsurfrules`, and context-driven `skills.md` libraries to build production-ready systems at scale.
 
 <br/>
 
@@ -36,19 +37,19 @@ I am a **Full Stack Software Architect** and the **CTO & Co-Founder of Syntaxure
 <!-- 🤖 AI-NATIVE DEVELOPER STACK & WORKSPACE -->
 ## 🤖 AI-Native IDEs & Workspace
 
-I orchestrate my development using modern, AI-powered IDEs and custom context engines:
+I orchestrate my development workflows using modern, AI-powered IDEs and custom context engines:
 
-<p>
-  <img src="https://img.shields.io/badge/Antigravity_AI-FF00FF?style=for-the-badge&logoColor=white" alt="Antigravity AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cursor_IDE-00E5FF?style=for-the-badge&logoColor=white" alt="Cursor IDE" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Windsurf_IDE-1282F6?style=for-the-badge&logoColor=white" alt="Windsurf IDE" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Zed_IDE-000000?style=for-the-badge&logo=zed&logoColor=white" alt="Zed IDE" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Context--Engine-skills.md-4CAF50?style=for-the-badge&logo=markdown&logoColor=white" alt="skills.md context" />
-</p>
+<div align="center">
+
+| IDE / Context Engine | Technology Badge | Primary Use Case |
+|---|---|---|
+| **Antigravity AI** | <img src="https://img.shields.io/badge/Antigravity_AI-36BCF7?style=for-the-badge&logo=cpu&logoColor=white" /> | Automated agentic pair programming and system building |
+| **Cursor IDE** | <img src="https://img.shields.io/badge/Cursor_IDE-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> | Inline code generation and repository-wide context query |
+| **Windsurf IDE** | <img src="https://img.shields.io/badge/Windsurf-00E5FF?style=for-the-badge&logo=wind&logoColor=white" /> | High-velocity reactive coding flows |
+| **Zed IDE** | <img src="https://img.shields.io/badge/Zed_IDE-1E293B?style=for-the-badge&logo=zed&logoColor=white" /> | Lightweight, ultra-fast rust-based editor workspace |
+| **Context Engine** | <img src="https://img.shields.io/badge/skills.md-36BCF7?style=for-the-badge&logo=markdown&logoColor=white" /> | Structured repository instructions and rules context files |
+
+</div>
 
 <br/>
 
@@ -59,39 +60,34 @@ I orchestrate my development using modern, AI-powered IDEs and custom context en
 
 <div align="center">
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&theme=dark" />
-</p>
+### Languages & Scripts
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&theme=dark" />
 
-**Frontend & Mobile**
+<br/>
+
+### Frontend, Mobile & Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,svelte,tailwind,bootstrap&theme=dark" />
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,svelte,tailwind,bootstrap&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React_Native-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Expo-1E293B?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
-**Backend & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express&theme=dark" />
-</p>
+<br/>
 
-**Cloud Databases & Real-time backends**
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&theme=dark" />
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Convex-FF7A00?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
+  <img src="https://img.shields.io/badge/Convex-00E5FF?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Turso_DB-00E5FF?style=for-the-badge&logo=turso&logoColor=black" alt="Turso" />
+  <img src="https://img.shields.io/badge/Turso_DB-36BCF7?style=for-the-badge&logo=turso&logoColor=white" alt="Turso" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Neon_Postgres-00E676?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+  <img src="https://img.shields.io/badge/Neon_Postgres-8B5CF6?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" />
 </p>
 
-**AI & Computer Vision**
+<br/>
+
+### AI, Computer Vision & Hardware
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   &nbsp;
@@ -101,16 +97,12 @@ I orchestrate my development using modern, AI-powered IDEs and custom context en
   &nbsp;
   <img src="https://img.shields.io/badge/face--api.js-TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="face-api.js" />
 </p>
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
 
-**Hardware & IoT**
-<p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
-</p>
+<br/>
 
-**Tools & Workflow**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,xampp&theme=dark" />
-</p>
+### Workflow Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,xampp&theme=dark" />
 
 </div>
 
@@ -121,19 +113,23 @@ I orchestrate my development using modern, AI-powered IDEs and custom context en
 <!-- ⚡ DEVOPS & SUPPLY CHAIN AUTOMATION WORKFLOW -->
 ## ⚡ DevOps & Automated Supply-Chain Workflow
 
-I run production-grade development workflows in all my repositories to guarantee software safety, dependency integrity, and automated release delivery:
+I run production-grade developer pipelines across all repositories to guarantee software safety, dependency integrity, and automated release delivery:
 
-| # | Tool / Integration | What It Does | Role in Workflow |
+<div align="center">
+
+| Pipeline Phase | Tool / Integration | Purpose | Impact on Workflow |
 |---|---|---|---|
-| **1** | **Husky + lint-staged** | Runs code quality, style, and formatting checks only on staged files before commit. | *Prevents broken code from entering git.* |
-| **2** | **Commitlint** | Automatically validates and rejects commits that do not follow Conventional Commits formatting. | *Enforces clean, parsing-ready changelogs.* |
-| **3** | **Changesets** | Automates versioning, changelog generation, and monorepo release orchestration dynamically. | *Frictionless automated npm / docker releases.* |
-| **4** | **CODEOWNERS** | Automatically assigns the correct domain experts for PR reviews depending on which files changed. | *Critical for teams and repository scaling.* |
-| **5** | **.editorconfig** | Ensures absolute consistency in indentation (tabs vs spaces), character sets, and line endings. | *Cross-IDE workspace standardization.* |
-| **6** | **Gitleaks CI** | Automated security sweeps to instantly detect and reject commits with leaked API secrets, credentials, or keys. | *High-security, zero-leak dev environment.* |
-| **7** | **Renovate Bot** | Continuously monitors, tests, and auto-merges secure, up-to-date third-party package dependencies. | *Zero-maintenance automated updates.* |
-| **8** | **Socket Security Bot** | Blocks supply-chain threats by scanning packages for malware, telemetry, and security vulnerability risks. | *Proactive supply-chain dependency defense.* |
-| **9** | **Codium PR Agent** | AI-powered Pull Request agent that automatically summarizes changes, suggests tests, and reviews code. | *Accelerated, thorough AI code reviews.* |
+| **Code Health** | **Husky + lint-staged** | Runs code quality, style, and formatting checks only on staged files before commit. | *Blocks broken code from entering git.* |
+| **Commit Quality** | **Commitlint** | Automatically validates and rejects commits that do not follow Conventional Commits formatting. | *Enforces clean, parsing-ready changelogs.* |
+| **Release Management** | **Changesets** | Automates versioning, changelog generation, and monorepo release orchestration dynamically. | *Frictionless automated npm / docker releases.* |
+| **Review Distribution** | **CODEOWNERS** | Automatically assigns the correct domain experts for PR reviews depending on which files changed. | *Critical for teams and repository scaling.* |
+| **IDE Consistency** | **.editorconfig** | Ensures absolute consistency in indentation (tabs vs spaces), character sets, and line endings. | *Cross-IDE workspace standardization.* |
+| **Secrets Protection** | **Gitleaks CI** | Automated security sweeps to instantly detect and reject commits with leaked API secrets, credentials, or keys. | *High-security, zero-leak dev environment.* |
+| **Dependency Security** | **Renovate Bot** | Continuously monitors, tests, and auto-merges secure, up-to-date third-party package dependencies. | *Zero-maintenance automated updates.* |
+| **Supply Chain Safety** | **Socket Security Bot** | Blocks supply-chain threats by scanning packages for malware, telemetry, and security vulnerability risks. | *Proactive supply-chain dependency defense.* |
+| **AI Peer Review** | **Codium PR Agent** | AI-powered Pull Request agent that automatically summarizes changes, suggests tests, and reviews code. | *Accelerated, thorough AI code reviews.* |
+
+</div>
 
 <br/>
 
@@ -142,16 +138,52 @@ I run production-grade development workflows in all my repositories to guarantee
 <!-- 🏆 SELECTED PROJECTS (REAL AND VERIFIED FROM DESKTOP & HTDOCS) -->
 ## 🔥 Featured Systems & Projects
 
-Here are some of the advanced systems I have engineered, showcasing end-to-end full-stack systems architecture:
+Here are some of the advanced, full-stack systems I have designed and engineered:
 
-### 🏠 Best-of-Best Enterprise & Capstone Projects
-*   **SpatialSync (Collaborative 3D Architectural Engine):** A browser-native multi-user 3D building designer powered by **Three.js (WebGL)**, **Alpine.js**, **Laravel 11/12**, and **Supabase Realtime WebSockets** for sub-second state sync. Features passwordless biometric (face) recognition login using `face-api.js` (TensorFlow) run 100% on the client, in-app persistent chat, and automated 2D blueprint PDF generation.
-*   **LikasLens (Neuro-Symbolic AI Civic Reporting Platform):** A smart community watchdog monorepo consisting of a **Next.js 16 App Router PWA** frontend, a **Laravel 12 API** backend connected to a **Supabase PostgreSQL** instance, and a **FastAPI (Python)** microservice backend integrating **Google Generative AI (Gemini)** for automated image analysis, legal-code parsing, and routing.
-*   **Brew & Co. (Coffee Ordering App):** A gorgeous, responsive mobile application written from scratch in **Flutter (Dart)** for cross-platform iOS and Android beverage orders.
-*   **IoT Smart Gate Access Control System:** An automated school gate integration running on **Raspberry Pi** using **Python, OpenCV, and YOLOv11** for facial recognition, RFID/fingerprint reader sync, and school uniform compliance check. Powered by a **Next.js & Supabase** dashboard.
-*   **Clinic Appointment & Medical Records System:** A production-grade **Flask (Python)** application featuring real-time queue boards via **Socket.IO**, QR code check-ins, medical inventory tracking, and **Supabase** storage integration.
+### 🏠 Enterprise & Capstone Projects
+
+<details open>
+<summary><strong>🏗️ SpatialSync — Collaborative 3D Architectural Engine</strong> (Laravel · Three.js · Supabase Realtime)</summary>
+<br/>
+
+*   **Overview:** A browser-native multi-user 3D building designer powered by **Three.js (WebGL)**, **Alpine.js**, and **Supabase Realtime WebSockets** for sub-second state sync.
+*   **Features:** Passwordless biometric (face) recognition login using `face-api.js` (TensorFlow) run 100% on the client, in-app persistent chat, and automated 2D blueprint PDF generation.
+</details>
+
+<details>
+<summary><strong>👁️ LikasLens — Neuro-Symbolic AI Civic Watchdog Monorepo</strong> (Next.js 16 · FastAPI · Laravel 12)</summary>
+<br/>
+
+*   **Overview:** A smart community watchdog monorepo designed for environmental reporting.
+*   **Features:** **Next.js 16 App Router PWA** frontend, **Laravel 12 API** backend, and a **FastAPI (Python)** microservice backend integrating **Google Generative AI (Gemini)** for automated image analysis, legal-code parsing, and agency routing.
+</details>
+
+<details>
+<summary><strong>☕ Brew & Co. — Cross-Platform Mobile Coffee Hub</strong> (Flutter · Dart)</summary>
+<br/>
+
+*   **Overview:** A gorgeous, responsive mobile application built for seamless beverage ordering.
+*   **Features:** High-performance cross-platform animations, secure local payment state, and cart persistence across iOS and Android.
+</details>
+
+<details>
+<summary><strong>🚪 IoT Smart Gate — Face Recognition Access Control</strong> (Python · OpenCV · YOLOv11)</summary>
+<br/>
+
+*   **Overview:** An automated school gate integration running on **Raspberry Pi**.
+*   **Features:** **Python, OpenCV, and YOLOv11** facial recognition, RFID/fingerprint reader sync, and school uniform compliance check. Managed via a custom **Next.js & Supabase** dashboard.
+</details>
+
+<details>
+<summary><strong>🏥 Clinic Appointment & Medical Records Dashboard</strong> (Flask · Socket.IO · Supabase)</summary>
+<br/>
+
+*   **Overview:** A production-grade healthcare administration portal.
+*   **Features:** Real-time queue boards via **Socket.IO**, QR code check-ins, medical inventory tracking, and **Supabase** storage integration.
+</details>
 
 ### 🌐 Full-Stack Web Applications
+
 *   **Department E-Commerce Platform:** Built on **Laravel 11**, using **Vite**, **Tailwind CSS**, and **AWS S3** for secure asset distribution. Includes automatic invoice downloads via `barryvdh/laravel-dompdf` and Laravel Breeze authentication.
 *   **Personal Recipe & Meal Planner App:** A cross-platform offline-first mobile app built using **React Native (Expo)** with **Drizzle ORM** and **SQLite** for instant storage query optimizations.
 *   **Campus Food Ordering System:** A full-stack ordering dashboard built with **Laravel 12**, **Tailwind CSS**, and **Vite**.
