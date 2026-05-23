@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hey+there%2C+I'm+Lou+%F0%9F%91%8B;Full+Stack+Developer+%7C+Open+Source+Lover;Building+clean+%26+scalable+software;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hey+there%2C+I'm+Lou+%F0%9F%91%8B;Full+Stack+Web+%26+Mobile+Developer;PHP+%7C+Laravel+%7C+Python+%7C+React;Building+real+systems+that+actually+work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS & SOCIALS ROW -->
 <p>
@@ -28,14 +28,15 @@
 
 ```ts
 const lou = {
-  role       : "Full Stack Developer",
-  location   : "🌏 Asia",
-  focus      : ["Web Apps", "APIs", "Open Source"],
-  currentlyBuilding : "Something awesome — stay tuned 🔧",
-  learning   : ["Go", "Rust", "AI/ML Engineering"],
-  funFact    : "I debug in production... just kidding. Mostly. 😅",
-  askMeAbout : ["JavaScript", "TypeScript", "System Design", "DevOps"],
-  reachMe    : "github.com/dev-lou",
+  role        : "Full Stack Developer",
+  location    : "🌏 Philippines",
+  focus       : ["Web Systems", "Mobile Apps", "IoT + AI"],
+  building    : "Smart systems that solve real campus & community problems",
+  stack       : ["PHP/Laravel", "Python/Flask", "React Native/Expo", "Next.js"],
+  databases   : ["MySQL", "PostgreSQL", "SQLite", "Firebase"],
+  currentlyLearning : ["AI/ML Integration", "Computer Vision", "Cloud Deployment"],
+  funFact     : "I built a face recognition smart gate that runs on a Raspberry Pi 🍓",
+  askMeAbout  : ["Laravel", "Flask", "React Native", "OpenCV", "Supabase"],
 };
 ```
 
@@ -50,23 +51,65 @@ const lou = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,cs,html,css&theme=dark" />
 
-**Frontend**
+**Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" />
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=reactnative,expo&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,redis,firebase&theme=dark" />
+**Backend & Frameworks**
 
-**DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=laravel,flask&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx,githubactions&theme=dark" />
+**Databases & Cloud**
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase,aws&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,jest,webpack,vite&theme=dark" />
+**AI / Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=opencv,python&theme=dark" />
+
+<p>
+  <img src="https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white" alt="YOLO" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/face--recognition-dlib-FF6B6B?style=for-the-badge&logoColor=white" alt="face-recognition" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+</p>
+
+**Hardware & IoT**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,xampp&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- PROJECTS HIGHLIGHT -->
+## 🔥 What I've Built
+
+<div align="center">
+
+| 🏗️ Project | 🛠️ Stack | 📌 Highlight |
+|---|---|---|
+| 🚪 IoT Smart Gate | Python · OpenCV · YOLO · RPi · Next.js · Supabase | Face recognition + RFID + uniform detection |
+| 🏥 Clinic Records System | Flask · PostgreSQL · SocketIO · Gemini AI | Real-time queue, QR codes, AI chatbot |
+| 🛒 Dept. E-Commerce Platform | Laravel 11 · MySQL · AWS S3 · Breeze | Full store with auth, orders, file storage |
+| 📱 Meal Planner App | React Native · Expo · Drizzle ORM · SQLite | Cross-platform mobile with offline support |
+| 🍔 Campus Food Ordering | Laravel 12 · Tailwind · Vite | Real-time food ordering for campus |
+| 🎮 Pokémon-Style 2D Game | Tiled · Custom Engine · JS | Turn-based 2D RPG adventure game |
+| 💼 Developer Portfolio | React · Vite · Framer Motion · GSAP · Supabase | Animated portfolio with live contact form |
+| 🏫 21+ PHP Web Systems | PHP · MySQL · Bootstrap | Student, clinic, hotel, HR management systems |
 
 </div>
 
@@ -92,7 +135,6 @@ const lou = {
 
 <br/>
 
-<!-- STREAK STATS -->
 <img src="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="dev-lou GitHub streak" />
 
 </div>
@@ -164,10 +206,6 @@ const lou = {
 <a href="mailto:dev.lou@email.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-&nbsp;
-<a href="https://dev.to/dev-lou">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-</a>
 
 </div>
 
@@ -177,7 +215,7 @@ const lou = {
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."*
 
 <br/>
 
