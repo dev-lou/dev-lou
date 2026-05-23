@@ -15,10 +15,12 @@
       .line { animation: glow 2.5s ease-in-out infinite; }
     </style>
   </defs>
-  <g class="ico" transform="translate(12,8)" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
-    <polyline points="16 18 22 12 16 6" />
-    <polyline points="8 6 2 12 8 18" />
-    <line x1="12" y1="2" x2="12" y2="22" stroke-dasharray="2 3" />
+  <g transform="translate(12,8)">
+    <g class="ico" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <polyline points="16 18 22 12 16 6" />
+      <polyline points="8 6 2 12 8 18" />
+      <line x1="12" y1="2" x2="12" y2="22" stroke-dasharray="2 3" />
+    </g>
   </g>
   <text x="46" y="25" fill="#a9b1d6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">TECH STACK</text>
   <line class="line" x1="165" y1="20" x2="790" y2="20" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.8" />
