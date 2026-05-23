@@ -160,7 +160,7 @@ My repositories run continuous automation pipelines that enforce code style, sec
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric GitHub Contribution Calendar" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric GitHub Contribution Calendar" />
 
 </div>
 
