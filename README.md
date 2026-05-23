@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=8" width="100%" alt="dev-lou banner" />
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=9" width="100%" alt="dev-lou banner" />
 
 <br/>
 <br/>
@@ -11,10 +11,6 @@
 ### 🚀 CTO & Co-Founder at Syntaxure Labs
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Web+%26+Mobile+Architect;PHP+%7C+Laravel+%7C+Python+%7C+Flutter+%7C+Svelte;Building+secure+%26+highly-scalable+systems;AI-Native+Automated+Developer+Workflow+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dev-lou&label=Profile+Views&color=36BCF7&style=flat-square" alt="dev-lou profile views" />
-</p>
 
 </div>
 
@@ -48,11 +44,11 @@ I orchestrate my development workflows using modern, AI-powered IDEs and custom 
 
 | IDE / Context Engine | Technology Badge | Primary Use Case |
 |---|---|---|
-| **Antigravity AI** | <img src="https://img.shields.io/badge/Antigravity_AI-36BCF7?style=for-the-badge&logo=cpu&logoColor=white" /> | Automated agentic pair programming and system building |
-| **Cursor IDE** | <img src="https://img.shields.io/badge/Cursor_IDE-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> | Inline code generation and repository-wide context query |
-| **Windsurf IDE** | <img src="https://img.shields.io/badge/Windsurf-00E5FF?style=for-the-badge&logo=wind&logoColor=white" /> | High-velocity reactive coding flows |
-| **OpenCode IDE** | <img src="https://img.shields.io/badge/OpenCode_IDE-1E293B?style=for-the-badge&logo=codeforces&logoColor=white" /> | Free high-performance AI models integration and coding |
-| **Zed IDE** | <img src="https://img.shields.io/badge/Zed_IDE-8B5CF6?style=for-the-badge&logo=zed&logoColor=white" /> | Lightweight, ultra-fast rust-based editor workspace |
+| **[Antigravity AI](https://antigravity.google/)** | <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity_AI-36BCF7?style=for-the-badge&logo=google&logoColor=white" /></a> | Automated agentic pair programming and system building |
+| **[Cursor IDE](https://cursor.com/)** | <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor_IDE-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a> | Inline code generation and repository-wide context query |
+| **[Windsurf IDE](https://windsurf.com/)** | <a href="https://windsurf.com/"><img src="https://img.shields.io/badge/Windsurf-00E5FF?style=for-the-badge&logo=wind&logoColor=white" /></a> | High-velocity reactive coding flows |
+| **[OpenCode IDE](https://opencode.ai/)** | <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode_IDE-1E293B?style=for-the-badge&logo=codeforces&logoColor=white" /></a> | Free high-performance AI models integration and coding |
+| **[Zed IDE](https://zed.dev/)** | <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed_IDE-8B5CF6?style=for-the-badge&logo=zed&logoColor=white" /></a> | Lightweight, ultra-fast rust-based editor workspace |
 | **Context Triad** | <img src="https://img.shields.io/badge/AI_Context_Files-skills%20%7C%20rules%20%7C%20context.md-36BCF7?style=for-the-badge&logo=markdown&logoColor=white" /> | `skills.md` + `rules.md` + `context.md` structured files that guide AI models for smarter context-aware generation |
 
 </div>
@@ -181,7 +177,8 @@ Here are some of the advanced, full-stack systems I have designed and engineered
 <br/>
 
 *   **Overview:** A browser-native multi-user 3D building designer powered by **Three.js (WebGL)**, **Alpine.js**, and **Supabase Realtime WebSockets** for sub-second state sync.
-*   **Features:** Passwordless biometric (face) recognition login using `face-api.js` (TensorFlow) run 100% on the client, in-app persistent chat, and automated 2D blueprint PDF generation.
+*   **Key UI/UX feature:** Features an advanced **scrollytelling landing page** where full video sequences are converted into high-performance, scroll-triggered frame sequences for stunning, fluid visual triggers.
+*   **Core Systems:** Secure passwordless biometric (face) recognition login using `face-api.js` (TensorFlow) run 100% on the client, in-app persistent chat, and automated 2D blueprint PDF generation.
 </details>
 
 <details>
@@ -197,7 +194,7 @@ Here are some of the advanced, full-stack systems I have designed and engineered
 <br/>
 
 *   **Overview:** A gorgeous, responsive mobile application built for seamless beverage ordering.
-*   **Features:** High-performance cross-platform animations, secure local payment state, and cart persistence across iOS and Android.
+*   **UI/UX Mechanics:** Implements custom **3D morphing and scrollytelling animations** that seamlessly morph shapes, creating an immersive optical illusion as elements transition from 2D workspace blocks into fully rendered 3D space.
 </details>
 
 <details>
