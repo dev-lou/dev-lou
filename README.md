@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=7" width="100%" alt="dev-lou banner" />
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=8" width="100%" alt="dev-lou banner" />
 
 <br/>
 <br/>
@@ -30,6 +30,11 @@ I am a **Full Stack Software Architect** and the **CTO & Co-Founder of Syntaxure
 *   💡 **Design Specialties:** Multi-user WebSockets state-sync, WebGL 3D engines, Computer Vision (YOLOv11/OpenCV), Biometric Authentication
 *   🤖 **AI-Native Engineering:** Optimizing high-speed AI coding flows using custom `.cursorrules`, `.windsurfrules`, and context-driven `skills.md` libraries to build production-ready systems at scale.
 
+> ### 💡 The Zero-Budget Engineering Philosophy (Free-Tier Mastery)
+> Every single platform, system, database, and mobile app I have engineered is fully production-ready, SEO-optimized, live, and runs **100% on free-tier infrastructure, free IDE AI models, and GitHub Student Developer Pack benefits**. 
+> 
+> I specialize in high-efficiency systems orchestration—proving that enterprise-grade, high-performance 3D and AI systems can be built with **zero financial budget** through master-level architecture, caching, and infrastructure optimization.
+
 <br/>
 
 ---
@@ -46,8 +51,9 @@ I orchestrate my development workflows using modern, AI-powered IDEs and custom 
 | **Antigravity AI** | <img src="https://img.shields.io/badge/Antigravity_AI-36BCF7?style=for-the-badge&logo=cpu&logoColor=white" /> | Automated agentic pair programming and system building |
 | **Cursor IDE** | <img src="https://img.shields.io/badge/Cursor_IDE-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> | Inline code generation and repository-wide context query |
 | **Windsurf IDE** | <img src="https://img.shields.io/badge/Windsurf-00E5FF?style=for-the-badge&logo=wind&logoColor=white" /> | High-velocity reactive coding flows |
-| **Zed IDE** | <img src="https://img.shields.io/badge/Zed_IDE-1E293B?style=for-the-badge&logo=zed&logoColor=white" /> | Lightweight, ultra-fast rust-based editor workspace |
-| **Context Engine** | <img src="https://img.shields.io/badge/skills.md-36BCF7?style=for-the-badge&logo=markdown&logoColor=white" /> | Structured repository instructions and rules context files |
+| **OpenCode IDE** | <img src="https://img.shields.io/badge/OpenCode_IDE-1E293B?style=for-the-badge&logo=codeforces&logoColor=white" /> | Free high-performance AI models integration and coding |
+| **Zed IDE** | <img src="https://img.shields.io/badge/Zed_IDE-8B5CF6?style=for-the-badge&logo=zed&logoColor=white" /> | Lightweight, ultra-fast rust-based editor workspace |
+| **Context Triad** | <img src="https://img.shields.io/badge/AI_Context_Files-skills%20%7C%20rules%20%7C%20context.md-36BCF7?style=for-the-badge&logo=markdown&logoColor=white" /> | `skills.md` + `rules.md` + `context.md` structured files that guide AI models for smarter context-aware generation |
 
 </div>
 
@@ -64,41 +70,69 @@ I orchestrate my development workflows using modern, AI-powered IDEs and custom 
 <img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&theme=dark" />
 
 <br/>
-
-### Frontend, Mobile & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,svelte,tailwind,bootstrap&theme=dark" />
-<p>
-  <img src="https://img.shields.io/badge/React_Native-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Expo-1E293B?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-</p>
-
 <br/>
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&theme=dark" />
-<p>
-  <img src="https://img.shields.io/badge/Convex-00E5FF?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Turso_DB-36BCF7?style=for-the-badge&logo=turso&logoColor=white" alt="Turso" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Neon_Postgres-8B5CF6?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" />
-</p>
+### Frontend, Mobile & Frameworks
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,svelte,tailwind,bootstrap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top: 10px;">
+      <img src="https://img.shields.io/badge/React_Native-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Expo-1E293B?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+    </td>
+  </tr>
+</table>
 
+<br/>
+<br/>
+
+### Backend, Databases & Real-time Cloud
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top: 10px;">
+      <img src="https://img.shields.io/badge/Convex-00E5FF?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Turso_DB-36BCF7?style=for-the-badge&logo=turso&logoColor=white" alt="Turso" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Neon_Postgres-8B5CF6?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 <br/>
 
 ### AI, Computer Vision & Hardware
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white" alt="YOLOv11" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/face--api.js-TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="face-api.js" />
-</p>
-<img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/OpenCV-5.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white" alt="YOLOv11" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/face--api.js-TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="face-api.js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top: 10px;">
+      <img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
+    </td>
+  </tr>
+</table>
 
+<br/>
 <br/>
 
 ### Workflow Tools
