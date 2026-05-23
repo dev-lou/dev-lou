@@ -145,7 +145,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 <!-- Dropdown Accordions — Using <img> references (GitHub strips inline SVGs) -->
 
 <details>
-<summary><img src="assets/summary-archive.svg" width="100%" alt="View all projects" /></summary>
+<summary><picture><img src="assets/summary-archive.svg" width="100%" alt="View all projects" /></picture></summary>
 <br/>
 
 | Project | Stack | Live | Description |
@@ -163,7 +163,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 </details>
 
 <details>
-<summary><img src="assets/summary-cloudflare.svg" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></summary>
+<summary><picture><img src="assets/summary-cloudflare.svg" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
 <br/>
 
 | Layer | Tactics | Performance Impact | Cost |
@@ -177,7 +177,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 </details>
 
 <details>
-<summary><img src="assets/summary-ai.svg" width="100%" alt="AI-Native Development Workflow" /></summary>
+<summary><picture><img src="assets/summary-ai.svg" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
 <br/>
 
 I leverage specialized AI agents and structured configuration parameters to build production systems rapidly:
@@ -193,7 +193,7 @@ I leverage specialized AI agents and structured configuration parameters to buil
 </details>
 
 <details>
-<summary><img src="assets/summary-devops.svg" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></summary>
+<summary><picture><img src="assets/summary-devops.svg" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
 <br/>
 
 My repositories run continuous automation pipelines that enforce code style, security standards, and smooth releases:

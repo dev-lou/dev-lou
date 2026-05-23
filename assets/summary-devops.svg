@@ -15,6 +15,6 @@
     <path d="M12 2v20 M7 7l5-5 5 5 M7 17l5 5 5-5" />
     <line x1="2" y1="12" x2="22" y2="12" stroke-dasharray="2 3" />
   </g>
-  <text x="60" y="36" fill="#a9b1d6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="700">DEVOPS &amp; SUPPLY-CHAIN AUTOMATION</text>
-  <text x="700" y="36" fill="#73daca" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">CLICK TO EXPAND ▼</text>
+  <text x="60" y="36" fill="#a9b1d6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700">DEVOPS &amp; SUPPLY-CHAIN AUTOMATION</text>
+  <text x="780" y="36" text-anchor="end" fill="#73daca" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">CLICK TO EXPAND ▼</text>
 </svg>

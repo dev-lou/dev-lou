@@ -15,6 +15,6 @@
     <circle cx="12" cy="12" r="5" />
     <path d="M12 2v5 M12 17v5 M2 12h5 M17 12h5" />
   </g>
-  <text x="60" y="36" fill="#a9b1d6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="700">AI-NATIVE DEVELOPMENT WORKFLOW</text>
-  <text x="700" y="36" fill="#bb9af7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">CLICK TO EXPAND ▼</text>
+  <text x="60" y="36" fill="#a9b1d6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700">AI-NATIVE DEVELOPMENT WORKFLOW</text>
+  <text x="780" y="36" text-anchor="end" fill="#bb9af7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">CLICK TO EXPAND ▼</text>
 </svg>
