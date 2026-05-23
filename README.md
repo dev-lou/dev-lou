@@ -74,10 +74,10 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 <img src="assets/header-projects.svg?v=5" width="100%" alt="Featured Projects" />
 
 <div align="center">
-  <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/project-spatialsync.svg?v=6" width="48%" alt="SpatialSync" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/project-cictstore.svg?v=6" width="48%" alt="Cict-Store" /></a><br/><br/>
-  <a href="https://github.com/dev-lou/clinic"><img src="assets/project-clinic.svg?v=6" width="48%" alt="clinic" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/project-ojt.svg?v=6" width="48%" alt="OJT-Qr-Pass" /></a>
+  <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/project-spatialsync-v2.svg" width="48%" alt="SpatialSync" /></a>&nbsp;
+  <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/project-cictstore-v2.svg" width="48%" alt="Cict-Store" /></a><br/><br/>
+  <a href="https://github.com/dev-lou/clinic"><img src="assets/project-clinic-v2.svg" width="48%" alt="clinic" /></a>&nbsp;
+  <a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/project-ojt-v2.svg" width="48%" alt="OJT-Qr-Pass" /></a>
 </div>
 
 <br/>
