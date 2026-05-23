@@ -142,7 +142,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 
 <details>
 <summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-archive.svg" width="100%" alt="Secondary &amp; Archived Projects (Click to expand)" />
+  <img src="assets/summary-archive.svg" width="96%" alt="Secondary &amp; Archived Projects (Click to expand)" />
 </summary>
 <br/>
 
@@ -162,7 +162,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 
 <details>
 <summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-cloudflare.svg" width="100%" alt="Cloudflare &amp; Edge Infrastructure (Click to expand)" />
+  <img src="assets/summary-cloudflare.svg" width="96%" alt="Cloudflare &amp; Edge Infrastructure (Click to expand)" />
 </summary>
 <br/>
 
@@ -178,7 +178,7 @@ Vercel-optimized student OJT tracking app with client QR generators, instant edg
 
 <details>
 <summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-ai.svg" width="100%" alt="AI-Native Development Workflow (Click to expand)" />
+  <img src="assets/summary-ai.svg" width="96%" alt="AI-Native Development Workflow (Click to expand)" />
 </summary>
 <br/>
 
@@ -196,7 +196,7 @@ I leverage specialized AI agents and structured configuration parameters to buil
 
 <details>
 <summary style="cursor: pointer; outline: none; list-style: none;">
-  <img src="assets/summary-devops.svg" width="100%" alt="DevOps &amp; Supply-Chain Automation (Click to expand)" />
+  <img src="assets/summary-devops.svg" width="96%" alt="DevOps &amp; Supply-Chain Automation (Click to expand)" />
 </summary>
 <br/>
 
