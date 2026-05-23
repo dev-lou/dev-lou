@@ -8,19 +8,19 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=680&height=50&lines=Full+Stack+Web+%26+Mobile+Architect;AI-Native+%7C+IoT+%7C+Zero-Budget+Infrastructure;CTO+%26+Co-Founder+%40+Syntaxure+Labs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=680&height=50&lines=Full+Stack+Web+%26+Mobile+Architect;AI-Native+%7C+Zero-Budget+Infrastructure;CTO+%26+Co-Founder+%40+Syntaxure+Labs)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theunknownn30)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louvincentj@gmail.com)
+<a href="https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/"><img src="assets/social-linkedin.svg" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.facebook.com/theunknownn30"><img src="assets/social-facebook.svg" alt="Facebook" /></a>&nbsp;
+<a href="mailto:louvincentj@gmail.com"><img src="assets/social-gmail.svg" alt="Gmail" /></a>
 
 </div>
 
 <br/>
 
-I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT systems, and AI engines — all deployed on **100% free-tier infrastructure** via GitHub Student benefits, Cloudflare, and strategic architecture. **Every project is live. Zero dollars spent.**
+I build **production-ready, SEO-optimized** web platforms, mobile apps, and AI engines — all deployed on **100% free-tier infrastructure** leveraging GitHub Student benefits, Cloudflare, and free-tier AI IDEs. **Every project is live. Zero dollars spent.**
 
 <br/>
 
