@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=4" width="100%" alt="dev-lou banner" />
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=5" width="100%" alt="dev-lou banner" />
 
 <br/>
 
@@ -115,10 +115,10 @@ These analytics auto-generate and update dynamically based on real activity on m
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dev-lou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="dev-lou GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-lou&theme=tokyonight" alt="dev-lou Profile Summary" />
     </td>
     <td>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dev-lou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="dev-lou top languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-lou&theme=tokyonight" alt="dev-lou Commit Languages" />
     </td>
   </tr>
 </table>
