@@ -1,226 +1,234 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Lou%20Vincent&fontSize=72&fontColor=70a5fd&fontAlignY=35&desc=CTO%20%26%20Co-Founder%20%E2%80%A2%20Syntaxure%20Labs&descSize=18&descColor=bf91f3&descAlignY=55&animation=fadeIn" width="100%" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Web+%26+Mobile+Architect+%F0%9F%8F%97%EF%B8%8F;AI-Native+Development+%E2%80%A2+Zero-Budget+Infrastructure+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png" width="100%" alt="Lou Vincent — Full Stack Developer" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=680&height=50&lines=Full+Stack+Web+%26+Mobile+Architect;AI-Native+%7C+IoT+%7C+Zero-Budget+Infrastructure;CTO+%26+Co-Founder+%40+Syntaxure+Labs)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/theunknownn30"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:louvincentj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theunknownn30)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louvincentj@gmail.com)
 
 </div>
 
 <br/>
 
-> I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT systems, and AI engines — all shipped on **100% free-tier infrastructure** using GitHub Student benefits, Cloudflare edge caching, and strategic architecture. **Every project is deployed. Every dollar saved.**
+I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT systems, and AI engines — all deployed on **100% free-tier infrastructure** via GitHub Student benefits, Cloudflare, and strategic architecture. **Every project is live. Zero dollars spent.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=1" width="100%" />
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
-#### ⚡ Languages
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=dark" />
 
-#### 🎨 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,svelte,flutter,tailwind,bootstrap&perline=7&theme=dark" />
-
-#### 🔧 Backend & Infrastructure
-<img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,supabase,firebase,docker&perline=7&theme=dark" />
-
-#### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=7&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Convex-EE5522?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
-<img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black" alt="Turso" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
 
-#### 🤖 AI & Computer Vision
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logoColor=black" alt="YOLOv11" />
+**Frontend & Mobile**
 
-#### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=cloudflare,raspberrypi,linux,git,github,figma&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=dark" />
+
+<br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=dark" />
+
+<br/>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=dark" />
+
+<br/>
+
+**Databases & Realtime (not on skillicons)**
+
+[![Convex](https://img.shields.io/badge/Convex-EE5522?style=for-the-badge&logoColor=white)](https://convex.dev)
+[![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logoColor=black)](https://turso.tech)
+[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black)](https://neon.tech)
+
+**AI & Computer Vision**
+
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logoColor=black)](https://ultralytics.com)
 
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=1" width="100%" />
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/dev-lou">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-lou&repo=SpatialSync&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" />
-</a>
-<a href="https://github.com/dev-lou">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-lou&repo=LikasLens&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" />
-</a>
-
-</div>
+## Featured Projects
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🏗️ SpatialSync
-**Collaborative 3D Architectural Engine**
+**[SpatialSync](https://github.com/dev-lou/SpatialSync)** &nbsp;·&nbsp; [↗ Live](https://spatialsync.isufstcict.com/)
 
-Browser-native multi-user 3D builder with **Three.js WebGL**, **Supabase Realtime** WebSockets, biometric face-login via `face-api.js`, and a **scrollytelling** landing page with video-to-frame scroll-triggered sequences.
+Collaborative 3D Architectural Engine
 
-`Laravel` `Three.js` `Alpine.js` `Supabase` `TensorFlow`
+Browser-native multi-user 3D builder with **Three.js WebGL**, **Supabase Realtime** WebSockets, biometric face-login via `face-api.js`, and a scrollytelling landing page with video-to-frame scroll-triggered sequences.
+
+`Blade` `Three.js` `Alpine.js` `Supabase` `TensorFlow`
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 👁️ LikasLens
-**AI Civic Watchdog Monorepo**
+**[Cict-Store](https://github.com/dev-lou/Cict-Store)**
 
-Neuro-symbolic community reporting platform. **Next.js 16 PWA** frontend, **Laravel 12 API**, and **FastAPI** microservice with **Google Gemini AI** for automated image analysis, legal-code parsing, and agency routing.
+Department E-Commerce Platform
 
-`Next.js 16` `Laravel 12` `FastAPI` `Gemini AI` `Supabase`
+Full-stack e-commerce system with product management, order tracking, automated PDF invoicing, and Breeze authentication.
+
+`Laravel` `Blade` `MySQL` `Tailwind`
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### ☕ Brew & Co.
-**Cross-Platform Mobile Coffee Hub**
+**[clinic](https://github.com/dev-lou/clinic)**
 
-High-fidelity mobile app with custom **3D morphing scrollytelling** animations — shapes seamlessly transition from 2D into fully rendered 3D space, creating an immersive optical illusion.
+Healthcare Records System
 
-`Flutter` `Dart` `3D Animations`
+Production-grade clinic portal with real-time **Socket.IO** queue boards, QR code check-ins, and AI chatbot integration.
+
+`Flask` `Socket.IO` `Python` `Gemini AI`
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🚪 IoT Smart Gate
-**Face Recognition Access Control**
+**[OJT-Qr-Pass](https://github.com/dev-lou/OJT-Qr-Pass)** &nbsp;·&nbsp; [↗ Live](https://ojt-qr.vercel.app)
 
-Automated school gate on **Raspberry Pi** using **OpenCV + YOLOv11** for facial recognition, RFID/fingerprint sync, and uniform compliance via a **Next.js + Supabase** dashboard.
+QR-Based Attendance System
 
-`Python` `OpenCV` `YOLOv11` `Raspberry Pi` `Next.js`
+Streamlined OJT attendance tracking with QR code generation, real-time validation, and dashboard reporting.
+
+`JavaScript` `Vercel`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+[![SpatialSync](https://github-readme-stats.vercel.app/api/pin/?username=dev-lou&repo=SpatialSync&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6)](https://github.com/dev-lou/SpatialSync)
+[![PixelPilot](https://github-readme-stats.vercel.app/api/pin/?username=dev-lou&repo=PixelPilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6)](https://github.com/dev-lou/PixelPilot)
+
+</div>
+
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary><strong>&nbsp;&nbsp;View all projects &nbsp;(click to expand)</strong></summary>
+
 <br/>
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| 🏥 **Clinic Records** | Flask · Socket.IO · Gemini | Real-time queue boards, QR check-ins, AI chatbot |
-| 🛒 **E-Commerce Platform** | Laravel 11 · AWS S3 · Tailwind | Automated PDF invoicing, Breeze auth |
-| 📱 **Meal Planner** | React Native · Expo · SQLite | Offline-first mobile app, Drizzle ORM |
-| 🍔 **Food Ordering** | Laravel 12 · Tailwind · Vite | Full-stack campus ordering dashboard |
-| 🏫 **21+ PHP Portals** | PHP · MySQL · Bootstrap | Hotel, grading, faculty, student systems |
+| Repo | Stack | Live |
+|------|-------|------|
+| [SpatialSync](https://github.com/dev-lou/SpatialSync) | Laravel · Three.js · Supabase · TensorFlow | [spatialsync.isufstcict.com](https://spatialsync.isufstcict.com/) |
+| [Cict-Store](https://github.com/dev-lou/Cict-Store) | Laravel · Blade · MySQL · Tailwind | — |
+| [OJT-Qr-Pass](https://github.com/dev-lou/OJT-Qr-Pass) | JavaScript · Node | [ojt-qr.vercel.app](https://ojt-qr.vercel.app) |
+| [CICT-QR](https://github.com/dev-lou/CICT-QR) | JavaScript | [cict-qr.vercel.app](https://cict-qr.vercel.app) |
+| [clinic](https://github.com/dev-lou/clinic) | Flask · Socket.IO · Python | — |
+| [PixelPilot](https://github.com/dev-lou/PixelPilot) | JavaScript · AI Rules Engine | — |
+| [BaroroStudio](https://github.com/dev-lou/BaroroStudio) | TypeScript | [baroro-studio.vercel.app](https://baroro-studio.vercel.app) |
+| Church-QR | JavaScript | — |
+| 21+ PHP Portals | PHP · MySQL · Bootstrap | Various |
 
 </details>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=1" width="100%" />
+---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-lou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&ring_color=70a5fd" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=dev-lou&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=545d7a" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3&hide_border=true&custom_title=Contribution%20Timeline" width="98%" />
-
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=1" width="100%" />
-
-## 🏆 Achievements
+## GitHub Analytics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-lou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=545d7a" width="48%" alt="GitHub Streak" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lou&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=8" width="40%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=1a1b2e&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Contribution Graph" />
 
 </div>
 
-<br/>
+---
+
+## Achievements
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dev-lou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 <details>
-<summary><b>🤖 AI-Native Development Workflow</b></summary>
-<br/>
-
-<div align="center">
-
-I use AI-powered IDEs paired with structured context files (`skills.md` · `rules.md` · `context.md`) that guide AI models for smarter code generation:
+<summary><strong>&nbsp;&nbsp;AI-Native Development Workflow &nbsp;(click to expand)</strong></summary>
 
 <br/>
 
-<a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
-<a href="https://windsurf.com/"><img src="https://img.shields.io/badge/Windsurf-06B6D4?style=for-the-badge&logo=codeium&logoColor=white" /></a>
-<a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-8B5CF6?style=for-the-badge&logoColor=white" /></a>
-<a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed-industries&logoColor=white" /></a>
+I pair every project with structured context files — `skills.md`, `rules.md`, `context.md` — that guide AI models for smarter, consistent code generation across all IDEs.
 
-</div>
+| IDE | Role |
+|-----|------|
+| [Antigravity](https://antigravity.google/) | Agentic pair programming, automated tasks |
+| [Cursor](https://cursor.com/) | Inline generation, repo-wide context |
+| [Windsurf](https://windsurf.com/) | Reactive, high-velocity coding |
+| [OpenCode](https://opencode.ai/) | Free AI models via terminal |
+| [Zed](https://zed.dev/) | Ultra-fast Rust-based editing |
+
 </details>
 
 <details>
-<summary><b>⚡ DevOps & Supply-Chain Automation</b></summary>
+<summary><strong>&nbsp;&nbsp;DevOps & Supply-Chain Automation &nbsp;(click to expand)</strong></summary>
+
 <br/>
 
-<div align="center">
+| Tool | Purpose |
+|------|---------|
+| Husky + lint-staged | Pre-commit code quality gates |
+| Commitlint | Conventional Commits enforcement |
+| Changesets | Automated versioning & changelogs |
+| CODEOWNERS | Auto-assigns PR reviewers by file path |
+| Gitleaks CI | Blocks leaked API keys and credentials |
+| Renovate Bot | Auto-merges secure dependency updates |
+| Socket Security | Supply-chain malware detection |
+| Codium PR Agent | AI-powered PR review and test suggestions |
 
-| Phase | Tool | Purpose |
-|:------|:-----|:--------|
-| 🔒 Code Health | **Husky + lint-staged** | Pre-commit quality gates |
-| 📝 Commits | **Commitlint** | Conventional Commits enforcement |
-| 📦 Releases | **Changesets** | Automated versioning & changelogs |
-| 👥 Reviews | **CODEOWNERS** | Auto-assigns PR reviewers |
-| 🔑 Secrets | **Gitleaks CI** | Blocks leaked credentials |
-| 🔄 Dependencies | **Renovate Bot** | Auto-merges secure updates |
-| 🛡️ Supply Chain | **Socket Security** | Blocks malware packages |
-| 🤖 AI Review | **Codium PR Agent** | AI-powered PR analysis |
-
-</div>
 </details>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=1" width="100%" />
+---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img alt="github contribution snake animation" src="assets/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-<br/>
-
 <div align="center">
+<br/>
 
-**💡 "First, solve the problem. Then, write the code."**
+*"First, solve the problem. Then, write the code."*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dev-lou&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=100&section=footer" width="100%" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=120&section=footer" width="100%" />
