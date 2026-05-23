@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Main Premium Visual Banner -->
-<img src="assets/banner.png" width="100%" alt="Lou Vincent — Full Stack Developer" />
+<!-- Animated neon banner -->
+<img src="assets/banner-animated.svg?v=1" width="100%" alt="dev-lou — Full Stack Architect & AI-Native Developer" />
 
-<!-- Animated cyber-grid header -->
-<img src="assets/animated-header.svg" width="100%" alt="Lou Vincent — Full Stack Architect" />
 
 <br/><br/>
 
