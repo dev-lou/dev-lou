@@ -84,9 +84,9 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 
 <!-- Dropdown Accordions — Using <img> references (GitHub strips inline SVGs) -->
 
-<details>
-<summary><picture><img src="assets/summary-archive.svg?v=7" width="100%" alt="View all projects" /></picture></summary>
-<br/>
+<details dir="rtl">
+<summary><picture><img src="assets/summary-archive.svg?v=9" width="100%" alt="View all projects" /></picture></summary>
+<div dir="ltr"><br/>
 
 <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/archive-row-1.svg?v=6" width="100%" /></a><br/>
 <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/archive-row-2.svg?v=6" width="100%" /></a><br/>
@@ -98,34 +98,38 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 <a href="#"><img src="assets/archive-row-8.svg?v=6" width="100%" /></a><br/>
 <a href="#"><img src="assets/archive-row-9.svg?v=6" width="100%" /></a>
 
+</div>
 </details>
 
-<details>
-<summary><picture><img src="assets/summary-cloudflare.svg?v=7" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
-<br/>
+<details dir="rtl">
+<summary><picture><img src="assets/summary-cloudflare.svg?v=9" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
+<div dir="ltr"><br/>
 
 <img src="assets/table-cloudflare.svg?v=6" width="100%" />
 
+</div>
 </details>
 
-<details>
-<summary><picture><img src="assets/summary-ai.svg?v=7" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
-<br/>
+<details dir="rtl">
+<summary><picture><img src="assets/summary-ai.svg?v=9" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
+<div dir="ltr"><br/>
 
 I leverage specialized AI agents and structured configuration parameters to build production systems rapidly:
 
 <img src="assets/table-ai.svg?v=5" width="100%" />
 
+</div>
 </details>
 
-<details>
-<summary><picture><img src="assets/summary-devops.svg?v=7" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
-<br/>
+<details dir="rtl">
+<summary><picture><img src="assets/summary-devops.svg?v=9" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
+<div dir="ltr"><br/>
 
 My repositories run continuous automation pipelines that enforce code style, security standards, and smooth releases:
 
 <img src="assets/table-devops.svg?v=5" width="100%" />
 
+</div>
 </details>
 
 <!-- ═══════════════════════════════════════════════════════ -->
