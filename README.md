@@ -74,10 +74,10 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 <img src="assets/header-projects.svg?v=5" width="100%" alt="Featured Projects" />
 
 <div align="center">
-  <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/project-spatialsync.svg?v=5" width="48%" alt="SpatialSync" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/project-cictstore.svg?v=5" width="48%" alt="Cict-Store" /></a><br/><br/>
-  <a href="https://github.com/dev-lou/clinic"><img src="assets/project-clinic.svg?v=5" width="48%" alt="clinic" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/project-ojt.svg?v=5" width="48%" alt="OJT-Qr-Pass" /></a>
+  <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/project-spatialsync.svg?v=6" width="48%" alt="SpatialSync" /></a>&nbsp;
+  <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/project-cictstore.svg?v=6" width="48%" alt="Cict-Store" /></a><br/><br/>
+  <a href="https://github.com/dev-lou/clinic"><img src="assets/project-clinic.svg?v=6" width="48%" alt="clinic" /></a>&nbsp;
+  <a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/project-ojt.svg?v=6" width="48%" alt="OJT-Qr-Pass" /></a>
 </div>
 
 <br/>
@@ -88,15 +88,15 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 <summary><picture><img src="assets/summary-archive.svg?v=5" width="100%" alt="View all projects" /></picture></summary>
 <br/>
 
-<a href="https://github.com/dev-lou/SpatialSync"><img src="assets/archive-row-1.svg?v=5" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/Cict-Store"><img src="assets/archive-row-2.svg?v=5" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/archive-row-3.svg?v=5" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/CICT-QR"><img src="assets/archive-row-4.svg?v=5" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/clinic"><img src="assets/archive-row-5.svg?v=5" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/PixelPilot"><img src="assets/archive-row-6.svg?v=5" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/BaroroStudio"><img src="assets/archive-row-7.svg?v=5" width="100%" /></a><br/>
-<a href="#"><img src="assets/archive-row-8.svg?v=5" width="100%" /></a><br/>
-<a href="#"><img src="assets/archive-row-9.svg?v=5" width="100%" /></a>
+<a href="https://github.com/dev-lou/SpatialSync"><img src="assets/archive-row-1.svg?v=6" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/Cict-Store"><img src="assets/archive-row-2.svg?v=6" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/archive-row-3.svg?v=6" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/CICT-QR"><img src="assets/archive-row-4.svg?v=6" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/clinic"><img src="assets/archive-row-5.svg?v=6" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/PixelPilot"><img src="assets/archive-row-6.svg?v=6" width="100%" /></a><br/>
+<a href="https://github.com/dev-lou/BaroroStudio"><img src="assets/archive-row-7.svg?v=6" width="100%" /></a><br/>
+<a href="#"><img src="assets/archive-row-8.svg?v=6" width="100%" /></a><br/>
+<a href="#"><img src="assets/archive-row-9.svg?v=6" width="100%" /></a>
 
 </details>
 
@@ -104,13 +104,7 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, IoT syst
 <summary><picture><img src="assets/summary-cloudflare.svg?v=5" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
 <br/>
 
-| Layer | Tactics | Performance Impact | Cost |
-|:---|:---|:---|:---|
-| **Serverless &amp; CDN** | Cloudflare Pages &amp; Workers, Tiered Cache, Smart Routing | Instant page loading, edge compilation, zero latency globally | **$0** |
-| **Asset Delivery** | Brotli/Gzip compression, HTTP/3, early static hints | Egress-free data transmission, minimal roundtrips | **$0** |
-| **Edge Storage** | Neon Serverless, Turso SQLite, Supabase Edge | Millisecond edge query speeds, globally synced state | **$0** |
-| **Edge Guarding** | WAF layers, automatic bot intercepts, TLS 1.3 | DDoS protection, zero-trust edge gates | **$0** |
-| **Auto-Devops** | Multi-branch staging via DNS routing | Auto-provisioned sandbox environments on git push | **$0** |
+<img src="assets/table-cloudflare.svg?v=6" width="100%" />
 
 </details>
 
