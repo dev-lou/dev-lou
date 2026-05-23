@@ -171,9 +171,5 @@ My repositories run continuous automation pipelines that enforce code style, sec
 <div align="center">
 <br/>
 
-*"Coding is no longer about syntax; it's about context, architecture, and orchestrating AI."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=100&section=footer" width="100%" />
+<img src="assets/footer-quote.svg?v=1" width="100%" alt="AI Developer Quote" />
 </div>
