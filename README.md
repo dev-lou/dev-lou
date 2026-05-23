@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=9" width="100%" alt="dev-lou banner" />
+<img src="https://raw.githubusercontent.com/dev-lou/dev-lou/main/assets/banner.png?v=10" width="100%" alt="dev-lou banner" />
 
 <br/>
 <br/>
@@ -24,12 +24,13 @@ I am a **Full Stack Software Architect** and the **CTO & Co-Founder of Syntaxure
 *   📍 **Location:** Philippines 🇵🇭
 *   🚀 **Core Architecture:** Laravel (PHP), FastAPI/Flask (Python), Next.js, React Native, Svelte, and Flutter
 *   💡 **Design Specialties:** Multi-user WebSockets state-sync, WebGL 3D engines, Computer Vision (YOLOv11/OpenCV), Biometric Authentication
+*   ⚙️ **Server & Performance Optimization:** Experienced in configuring and optimizing **Cloudflare** environments—orchestrating edge caching, custom page rules, WAF security, DNS management, and CDN optimizations for maximum speed and performance.
 *   🤖 **AI-Native Engineering:** Optimizing high-speed AI coding flows using custom `.cursorrules`, `.windsurfrules`, and context-driven `skills.md` libraries to build production-ready systems at scale.
 
 > ### 💡 The Zero-Budget Engineering Philosophy (Free-Tier Mastery)
 > Every single platform, system, database, and mobile app I have engineered is fully production-ready, SEO-optimized, live, and runs **100% on free-tier infrastructure, free IDE AI models, and GitHub Student Developer Pack benefits**. 
 > 
-> I specialize in high-efficiency systems orchestration—proving that enterprise-grade, high-performance 3D and AI systems can be built with **zero financial budget** through master-level architecture, caching, and infrastructure optimization.
+> I leverage **Cloudflare edge caching and DNS optimization** to scale these services, ensuring that even under massive requests, hosting costs remain **zero** through master-level architecture, caching, and server resource orchestration.
 
 <br/>
 
@@ -91,7 +92,7 @@ I orchestrate my development workflows using modern, AI-powered IDEs and custom 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase,cloudflare&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -301,19 +302,15 @@ These analytics auto-generate and update dynamically based on real activity on m
 
 <div align="center">
 
-<a href="https://linkedin.com/in/dev-lou">
+<a href="https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://twitter.com/dev-lou">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<a href="https://www.facebook.com/theunknownn30">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 &nbsp;
-<a href="https://dev-lou.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:dev.lou@email.com">
+<a href="mailto:louvincentj@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
