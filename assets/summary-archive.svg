@@ -9,13 +9,17 @@
       .ico { animation: float 3s ease-in-out infinite; }
     </style>
   </defs>
-  <rect width="800" height="60" rx="8" fill="#0d1117" stroke="url(#accent)" stroke-width="2" />
-  <g transform="translate(20, 18)">
+  <!-- Dark bleed zone on the LEFT so the native GitHub triangle blends into background -->
+  <rect x="0" y="0" width="30" height="60" fill="#0d1117" />
+  <!-- Main card starts after the bleed zone -->
+  <rect x="30" y="2" width="768" height="56" rx="8" fill="#0d1117" stroke="url(#accent)" stroke-width="2" />
+  <!-- Icon -->
+  <g transform="translate(55, 18)">
     <g class="ico" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
       <polyline points="16 18 22 12 16 6" />
       <polyline points="8 6 2 12 8 18" />
     </g>
   </g>
-  <text x="55" y="36" fill="#a9b1d6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700">SECONDARY &amp; ARCHIVED PROJECTS</text>
-  <text x="780" y="36" text-anchor="end" fill="#70a5fd" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">CLICK TO EXPAND</text>
+  <text x="90" y="36" fill="#a9b1d6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700">SECONDARY &amp; ARCHIVED PROJECTS</text>
+  <text x="775" y="36" text-anchor="end" fill="#70a5fd" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">CLICK TO EXPAND ▼</text>
 </svg>
