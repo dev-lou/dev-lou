@@ -56,41 +56,25 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, and AI e
 
 **Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=light" />
-  <img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=dark" alt="" />
-</picture>
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=dark" />
 
 <br/>
 
 **Frontend & Mobile**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=dark" alt="" />
-</picture>
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=dark" />
 
 <br/>
 
 **Backend & Databases**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=light" />
-  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=dark" alt="" />
-</picture>
+<img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=dark" />
 
 <br/>
 
 **Cloud, DevOps & Tools**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=light" />
-  <img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=dark" alt="" />
-</picture>
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=dark" />
 
 <br/>
 
