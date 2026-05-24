@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" fill="none">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff79c6" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#bd93f9" stop-opacity="0.2" />
+    </linearGradient>
+    <style>
+      .bg { fill: #ffffff; stroke: url(#accent); stroke-width: 2; transition: all 0.3s ease; }
+      .bg:hover { fill: #e8ecf0; cursor: pointer; }
+      .title { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; font-weight: 700; }
+      .subtitle { fill: #ff79c6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; font-style: italic; }
+      .desc { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 400; line-height: 1.5; }
+      .badge-bg { fill: #e8ecf0; stroke-width: 1; rx: 4; }
+      .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; font-weight: 600; fill: #24292f; }
+      @keyframes float { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-2px) } }
+      .ico { animation: float 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="396" height="176" x="2" y="2" rx="12" />
+
+  <!-- Double Wrapper Fix for Float Animation -->
+  <g transform="translate(20, 20)">
+    <g class="ico" stroke="#ff79c6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
+    </g>
+  </g>
+
+  <!-- Text Content -->
+  <text x="50" y="35" class="title">clinic </text>
+  <text x="20" y="60" class="subtitle">Healthcare Records Portal</text>
+  
+  <text x="20" y="85" class="desc">Healthcare clinic tracker with real-time Socket.io</text>
+  <text x="20" y="105" class="desc">dashboards, QR check-ins, and Gemini AI bots.</text>
+
+  <!-- Badges -->
+  <g transform="translate(20, 135)">
+    <!-- Flask -->
+    <rect class="badge-bg" width="45" height="22" stroke="#1f2328" />
+    <text x="8" y="15" class="badge-text" fill="#1f2328">Flask</text>
+    <!-- Python -->
+    <g transform="translate(53, 0)">
+      <rect class="badge-bg" width="55" height="22" stroke="#3776AB" />
+      <text x="8" y="15" class="badge-text">Python</text>
+    </g>
+    <!-- Socket.IO -->
+    <g transform="translate(116, 0)">
+      <rect class="badge-bg" width="70" height="22" stroke="#1f2328" />
+      <text x="8" y="15" class="badge-text" fill="#1f2328">Socket.IO</text>
+    </g>
+    <!-- Gemini AI -->
+    <g transform="translate(194, 0)">
+      <rect class="badge-bg" width="75" height="22" stroke="#8E75B2" />
+      <text x="8" y="15" class="badge-text">Gemini AI</text>
+    </g>
+  </g>
+</svg>

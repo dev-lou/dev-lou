@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Animated neon banner -->
-<img src="assets/banner-v3.svg" width="100%" alt="dev-lou — Full Stack Architect & AI-Native Developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v3.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-v3-light.svg" />
+  <img src="assets/banner-v3.svg" width="100%" alt="dev-lou — Full Stack Architect & AI-Native Developer" />
+</picture>
 
 
 <br/><br/>
@@ -10,9 +14,27 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/"><img src="assets/social-linkedin.svg" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.facebook.com/theunknownn30"><img src="assets/social-facebook.svg" alt="Facebook" /></a>&nbsp;
-<a href="mailto:louvincentj@gmail.com"><img src="assets/social-gmail.svg" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-linkedin-light.svg" />
+  <img src="assets/social-linkedin.svg" alt="LinkedIn" />
+</picture>
+</a>&nbsp;
+<a href="https://www.facebook.com/theunknownn30">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-facebook.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-facebook-light.svg" />
+  <img src="assets/social-facebook.svg" alt="Facebook" />
+</picture>
+</a>&nbsp;
+<a href="mailto:louvincentj@gmail.com">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-gmail.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-gmail-light.svg" />
+  <img src="assets/social-gmail.svg" alt="Gmail" />
+</picture>
+</a>
 
 </div>
 
@@ -24,31 +46,51 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, and AI e
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-techstack.svg?v=5" width="100%" alt="Tech Stack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-techstack.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-techstack-light.svg?v=1779607917869" />
+  <img src="assets/header-techstack.svg?v=1779607917869" width="100%" alt="Tech Stack" />
+</picture>
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=light" />
+  <img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,cs,html,css&perline=8&theme=dark" alt="" />
+</picture>
 
 <br/>
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,flutter,tailwind,bootstrap&perline=7&theme=dark" alt="" />
+</picture>
 
 <br/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=light" />
+  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,mysql,postgres,sqlite,supabase,firebase&perline=9&theme=dark" alt="" />
+</picture>
 
 <br/>
 
 **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,git,github,figma&perline=7&theme=dark" alt="" />
+</picture>
 
 <br/>
 
@@ -69,13 +111,41 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, and AI e
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-projects.svg?v=5" width="100%" alt="Featured Projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-projects.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-projects-light.svg?v=1779607917869" />
+  <img src="assets/header-projects.svg?v=1779607917869" width="100%" alt="Featured Projects" />
+</picture>
 
 <div align="center">
-  <a href="https://github.com/dev-lou/SpatialSync"><img src="assets/project-spatialsync-v2.svg" width="48%" alt="SpatialSync" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/Cict-Store"><img src="assets/project-cictstore-v2.svg" width="48%" alt="Cict-Store" /></a><br/><br/>
-  <a href="https://github.com/dev-lou/clinic"><img src="assets/project-clinic-v2.svg" width="48%" alt="clinic" /></a>&nbsp;
-  <a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/project-ojt-v2.svg" width="48%" alt="OJT-Qr-Pass" /></a>
+  <a href="https://github.com/dev-lou/SpatialSync">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-spatialsync-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-spatialsync-v2-light.svg" />
+  <img src="assets/project-spatialsync-v2.svg" width="48%" alt="SpatialSync" />
+</picture>
+</a>&nbsp;
+  <a href="https://github.com/dev-lou/Cict-Store">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-cictstore-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-cictstore-v2-light.svg" />
+  <img src="assets/project-cictstore-v2.svg" width="48%" alt="Cict-Store" />
+</picture>
+</a><br/><br/>
+  <a href="https://github.com/dev-lou/clinic">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-clinic-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-clinic-v2-light.svg" />
+  <img src="assets/project-clinic-v2.svg" width="48%" alt="clinic" />
+</picture>
+</a>&nbsp;
+  <a href="https://github.com/dev-lou/OJT-Qr-Pass">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-ojt-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-ojt-v2-light.svg" />
+  <img src="assets/project-ojt-v2.svg" width="48%" alt="OJT-Qr-Pass" />
+</picture>
+</a>
 </div>
 
 <br/>
@@ -83,78 +153,188 @@ I build **production-ready, SEO-optimized** web platforms, mobile apps, and AI e
 <!-- Dropdown Accordions — Using <img> references (GitHub strips inline SVGs) -->
 
 <details>
-<summary><picture><img src="assets/summary-archive.svg?v=10" width="100%" alt="View all projects" /></picture></summary>
+<summary><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/summary-archive.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/summary-archive-light.svg?v=1779607917869" />
+  <img src="assets/summary-archive.svg?v=1779607917869" width="100%" alt="View all projects" />
+</picture></summary>
 <br/>
 
-<a href="https://github.com/dev-lou/SpatialSync"><img src="assets/archive-row-1.svg?v=6" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/Cict-Store"><img src="assets/archive-row-2.svg?v=6" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/OJT-Qr-Pass"><img src="assets/archive-row-3.svg?v=6" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/CICT-QR"><img src="assets/archive-row-4.svg?v=6" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/clinic"><img src="assets/archive-row-5.svg?v=6" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/PixelPilot"><img src="assets/archive-row-6.svg?v=6" width="100%" /></a><br/>
-<a href="https://github.com/dev-lou/BaroroStudio"><img src="assets/archive-row-7.svg?v=6" width="100%" /></a><br/>
-<a href="#"><img src="assets/archive-row-8.svg?v=6" width="100%" /></a><br/>
-<a href="#"><img src="assets/archive-row-9.svg?v=6" width="100%" /></a>
+<a href="https://github.com/dev-lou/SpatialSync">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-1.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-1-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-1.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="https://github.com/dev-lou/Cict-Store">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-2.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-2-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-2.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="https://github.com/dev-lou/OJT-Qr-Pass">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-3.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-3-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-3.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="https://github.com/dev-lou/CICT-QR">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-4.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-4-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-4.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="https://github.com/dev-lou/clinic">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-5.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-5-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-5.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="https://github.com/dev-lou/PixelPilot">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-6.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-6-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-6.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="https://github.com/dev-lou/BaroroStudio">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-7.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-7-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-7.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="#">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-8.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-8-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-8.svg?v=1779607917869" width="100%" />
+</picture>
+</a><br/>
+<a href="#">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/archive-row-9.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/archive-row-9-light.svg?v=1779607917869" />
+  <img src="assets/archive-row-9.svg?v=1779607917869" width="100%" />
+</picture>
+</a>
 
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-cloudflare.svg?v=10" width="100%" alt="Cloudflare &amp; Edge Infrastructure" /></picture></summary>
+<summary><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/summary-cloudflare.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/summary-cloudflare-light.svg?v=1779607917869" />
+  <img src="assets/summary-cloudflare.svg?v=1779607917869" width="100%" alt="Cloudflare &amp; Edge Infrastructure" />
+</picture></summary>
 <br/>
 
-<img src="assets/table-cloudflare.svg?v=6" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/table-cloudflare.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/table-cloudflare-light.svg?v=1779607917869" />
+  <img src="assets/table-cloudflare.svg?v=1779607917869" width="100%" />
+</picture>
 
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-ai.svg?v=10" width="100%" alt="AI-Native Development Workflow" /></picture></summary>
+<summary><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/summary-ai.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/summary-ai-light.svg?v=1779607917869" />
+  <img src="assets/summary-ai.svg?v=1779607917869" width="100%" alt="AI-Native Development Workflow" />
+</picture></summary>
 <br/>
 
 I leverage specialized AI agents and structured configuration parameters to build production systems rapidly:
 
-<img src="assets/table-ai.svg?v=5" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/table-ai.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/table-ai-light.svg?v=1779607917869" />
+  <img src="assets/table-ai.svg?v=1779607917869" width="100%" />
+</picture>
 
 </details>
 
 <details>
-<summary><picture><img src="assets/summary-devops.svg?v=10" width="100%" alt="DevOps &amp; Supply-Chain Automation" /></picture></summary>
+<summary><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/summary-devops.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/summary-devops-light.svg?v=1779607917869" />
+  <img src="assets/summary-devops.svg?v=1779607917869" width="100%" alt="DevOps &amp; Supply-Chain Automation" />
+</picture></summary>
 <br/>
 
 My repositories run continuous automation pipelines that enforce code style, security standards, and smooth releases:
 
-<img src="assets/table-devops.svg?v=5" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/table-devops.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/table-devops-light.svg?v=1779607917869" />
+  <img src="assets/table-devops.svg?v=1779607917869" width="100%" />
+</picture>
 
 </details>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-analytics.svg?v=5" width="100%" alt="GitHub Analytics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-analytics.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-analytics-light.svg?v=1779607917869" />
+  <img src="assets/header-analytics.svg?v=1779607917869" width="100%" alt="GitHub Analytics" />
+</picture>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=545d7a" width="48%" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=545d7a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dev-lou&theme=github-light&hide_border=true&background=ffffff&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=dev-lou&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=545d7a" width="48%" alt="GitHub Streak" />
+</picture>
 &nbsp;
-<img src="assets/top-languages.svg?v=5" width="48%" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/top-languages.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/top-languages-light.svg?v=1779607917869" />
+  <img src="assets/top-languages.svg?v=1779607917869" width="48%" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=1a1b2e&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=1a1b2e&hide_border=true&custom_title=Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&bg_color=ffffff&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=e8ecf0&hide_border=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-lou&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=1a1b2e&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Contribution Graph" />
+</picture>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-achievements.svg?v=5" width="100%" alt="Achievements" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-achievements.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-achievements-light.svg?v=1779607917869" />
+  <img src="assets/header-achievements.svg?v=1779607917869" width="100%" alt="Achievements" />
+</picture>
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dev-lou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dev-lou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dev-lou&theme=flat&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-lou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+</picture>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="assets/header-pacman.svg" width="100%" alt="Pac-Man Contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-pacman.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-pacman-light.svg" />
+  <img src="assets/header-pacman.svg" width="100%" alt="Pac-Man Contributions" />
+</picture>
 
 <div align="center">
 
@@ -169,5 +349,9 @@ My repositories run continuous automation pipelines that enforce code style, sec
 <div align="center">
 <br/>
 
-<img src="assets/footer-quote.svg?v=1" width="100%" alt="AI Developer Quote" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-quote.svg?v=1779607917869" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-quote-light.svg?v=1779607917869" />
+  <img src="assets/footer-quote.svg?v=1779607917869" width="100%" alt="AI Developer Quote" />
+</picture>
 </div>

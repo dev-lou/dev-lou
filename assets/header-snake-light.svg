@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40" fill="none">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#73daca" />
+      <stop offset="100%" stop-color="#9ece6a" />
+    </linearGradient>
+    <filter id="g" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="b" />
+      <feComposite in="SourceGraphic" in2="b" operator="over" />
+    </filter>
+    <style>
+      @keyframes glow { 0%,100% { opacity:.7 } 50% { opacity:1 } }
+      @keyframes slither { 0%,100% { transform:translateX(0) } 50% { transform:translateX(3px) } }
+      .ico { animation: slither 2s ease-in-out infinite; }
+      .line { animation: glow 2.5s ease-in-out infinite; }
+    </style>
+  </defs>
+  <g transform="translate(12,8)">
+    <g class="ico" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M2 12 C6 6, 10 18, 14 12 C18 6, 22 18, 22 12" />
+      <circle cx="22" cy="12" r="2" fill="#73daca" />
+    </g>
+  </g>
+  <text x="46" y="25" fill="#24292f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">CONTRIBUTION SNAKE</text>
+  <line class="line" x1="260" y1="20" x2="790" y2="20" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.8" />
+  <circle class="line" cx="260" cy="20" r="3" fill="#73daca" filter="url(#g)" />
+</svg>

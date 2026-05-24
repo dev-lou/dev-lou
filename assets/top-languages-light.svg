@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" fill="none">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #e8ecf0; stroke-width: 2; }
+      .text-title { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 1px; }
+      .text-label { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 500; }
+      .text-value { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; }
+      .ring { fill: none; stroke-width: 20; stroke-linecap: round; }
+      .ring-bg { fill: none; stroke: #e8ecf0; stroke-width: 20; }
+      
+      @keyframes draw1 { 0% { stroke-dasharray: 0 502.65; } 100% { stroke-dasharray: 172 502.65; } }
+      @keyframes draw2 { 0% { stroke-dasharray: 0 502.65; } 100% { stroke-dasharray: 147 502.65; } }
+      @keyframes draw3 { 0% { stroke-dasharray: 0 502.65; } 100% { stroke-dasharray: 72 502.65; } }
+      @keyframes draw4 { 0% { stroke-dasharray: 0 502.65; } 100% { stroke-dasharray: 47 502.65; } }
+      @keyframes draw5 { 0% { stroke-dasharray: 0 502.65; } 100% { stroke-dasharray: 47 502.65; } }
+      
+      .c1 { stroke: #0088FF; stroke-dasharray: 172 502.65; stroke-dashoffset: 0; animation: draw1 1.5s ease-out forwards; }
+      .c2 { stroke: #FFD700; stroke-dasharray: 147 502.65; stroke-dashoffset: -175.93; animation: draw2 1.5s ease-out forwards; }
+      .c3 { stroke: #FF2222; stroke-dasharray: 72 502.65; stroke-dashoffset: -326.73; animation: draw3 1.5s ease-out forwards; }
+      .c4 { stroke: #1f2328; stroke-dasharray: 47 502.65; stroke-dashoffset: -402.13; animation: draw4 1.5s ease-out forwards; }
+      .c5 { stroke: #00FF00; stroke-dasharray: 47 502.65; stroke-dashoffset: -452.4; animation: draw5 1.5s ease-out forwards; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="480" height="240" rx="8" />
+  
+  <text x="30" y="35" class="text-title">MOST USED LANGUAGES</text>
+  <line x1="30" y1="45" x2="450" y2="45" stroke="#e8ecf0" stroke-width="2" />
+
+  <!-- Donut Chart -->
+  <g transform="rotate(-90 120 140)">
+    <circle class="ring-bg" cx="120" cy="140" r="80" />
+    <circle class="ring c1" cx="120" cy="140" r="80" />
+    <circle class="ring c2" cx="120" cy="140" r="80" />
+    <circle class="ring c3" cx="120" cy="140" r="80" />
+    <circle class="ring c4" cx="120" cy="140" r="80" />
+    <circle class="ring c5" cx="120" cy="140" r="80" />
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(250, 70)">
+    <circle cx="0" cy="0" r="6" fill="#0088FF" />
+    <text x="15" y="5" class="text-label">PHP</text>
+    <text x="160" y="5" class="text-value">35%</text>
+
+    <circle cx="0" cy="35" r="6" fill="#FFD700" />
+    <text x="15" y="40" class="text-label">JavaScript</text>
+    <text x="160" y="40" class="text-value">30%</text>
+
+    <circle cx="0" cy="70" r="6" fill="#FF2222" />
+    <text x="15" y="75" class="text-label">Python</text>
+    <text x="160" y="75" class="text-value">15%</text>
+
+    <circle cx="0" cy="105" r="6" fill="#1f2328" />
+    <text x="15" y="110" class="text-label">TypeScript</text>
+    <text x="160" y="110" class="text-value">10%</text>
+
+    <circle cx="0" cy="140" r="6" fill="#00FF00" />
+    <text x="15" y="145" class="text-label">Dart / Svelte</text>
+    <text x="160" y="145" class="text-value">10%</text>
+  </g>
+</svg>

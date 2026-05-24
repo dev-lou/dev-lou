@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40" fill="none">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #0866FF; stroke-width: 1.5; transition: all 0.3s ease; }
+      .bg:hover { fill: #e8ecf0; stroke-width: 2.5; filter: drop-shadow(0 0 6px #0866FF80); cursor: pointer; }
+      .text { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1px; }
+      @keyframes pulse { 0% { filter: drop-shadow(0 0 2px #0866FF40); } 50% { filter: drop-shadow(0 0 6px #0866FF80); } 100% { filter: drop-shadow(0 0 2px #0866FF40); } }
+      .glow-group { animation: pulse 3s infinite; }
+    </style>
+  </defs>
+
+  <g class="glow-group">
+    <rect class="bg" width="136" height="36" x="2" y="2" rx="18" />
+    <g transform="translate(15, 8)" stroke="#0866FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
+    </g>
+    <text x="50" y="24" class="text">FACEBOOK</text>
+  </g>
+</svg>

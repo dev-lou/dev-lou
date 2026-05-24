@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" fill="none">
+  <defs>
+    <!-- Background Space Gradient -->
+    <linearGradient id="header-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6f8fa" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+
+    <!-- Text and Circuit Gradients -->
+    <linearGradient id="neon-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70a5fd" />
+      <stop offset="50%" stop-color="#b9f27c" />
+      <stop offset="100%" stop-color="#bb9af7" />
+    </linearGradient>
+
+    <!-- Filters for Neon Glow -->
+    <filter id="neon-filter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      @keyframes grid-flow {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(20px); }
+      }
+      @keyframes pulse-text {
+        0% { opacity: 0.85; filter: drop-shadow(0 0 2px #70a5fd); }
+        50% { opacity: 1; filter: drop-shadow(0 0 10px #70a5fd); }
+        100% { opacity: 0.85; filter: drop-shadow(0 0 2px #70a5fd); }
+      }
+      @keyframes float-particle {
+        0% { transform: translateY(0) translateX(0); opacity: 0.2; }
+        50% { transform: translateY(-10px) translateX(5px); opacity: 0.7; }
+        100% { transform: translateY(0) translateX(0); opacity: 0.2; }
+      }
+      @keyframes scale-up {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+      }
+      
+      .grid-lines {
+        animation: grid-flow 2s linear infinite;
+      }
+      .glowing-title {
+        animation: pulse-text 3s infinite ease-in-out;
+      }
+      .particle-1 {
+        animation: float-particle 4s infinite ease-in-out;
+        transform-origin: 200px 80px;
+      }
+      .particle-2 {
+        animation: float-particle 5s infinite ease-in-out;
+        transform-origin: 600px 100px;
+      }
+      .circuit-pulse {
+        animation: scale-up 4s infinite ease-in-out;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="180" rx="10" fill="url(#header-bg)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Animated Cyber Grid Lines in Background -->
+  <g opacity="0.12" stroke="#70a5fd" stroke-width="0.5">
+    <!-- Verticals -->
+    <line x1="100" y1="0" x2="100" y2="180" />
+    <line x1="200" y1="0" x2="200" y2="180" />
+    <line x1="300" y1="0" x2="300" y2="180" />
+    <line x1="400" y1="0" x2="400" y2="180" />
+    <line x1="500" y1="0" x2="500" y2="180" />
+    <line x1="600" y1="0" x2="600" y2="180" />
+    <line x1="700" y1="0" x2="700" y2="180" />
+    <!-- Horizontals -->
+    <line x1="0" y1="30" x2="800" y2="30" />
+    <line x1="0" y1="60" x2="800" y2="60" />
+    <line x1="0" y1="90" x2="800" y2="90" />
+    <line x1="0" y1="120" x2="800" y2="120" />
+    <line x1="0" y1="150" x2="800" y2="150" />
+  </g>
+
+  <!-- Glowing background ambient light -->
+  <circle cx="400" cy="90" r="120" fill="#1f2335" opacity="0.4" filter="url(#soft-glow)" />
+
+  <!-- Floating Digital Node Particles -->
+  <circle class="particle-1" cx="180" cy="60" r="3" fill="#2ac3de" />
+  <line class="particle-1" x1="180" y1="60" x2="220" y2="80" stroke="#2ac3de" stroke-width="0.5" stroke-dasharray="2" />
+  
+  <circle class="particle-2" cx="620" cy="110" r="2.5" fill="#ff9e64" />
+  <line class="particle-2" x1="620" y1="110" x2="590" y2="70" stroke="#ff9e64" stroke-width="0.5" stroke-dasharray="2" />
+
+  <!-- Left/Right Circuit board decoration -->
+  <g class="circuit-pulse" opacity="0.25" stroke="#70a5fd" stroke-width="1.5" stroke-linecap="round" fill="none">
+    <path d="M 30,30 L 70,30 L 90,50 L 90,80 L 70,100" />
+    <circle cx="30" cy="30" r="3" fill="#70a5fd" />
+    <circle cx="70" cy="100" r="3" fill="#70a5fd" />
+    
+    <path d="M 770,150 L 730,150 L 710,130 L 710,100 L 730,80" />
+    <circle cx="770" cy="150" r="3" fill="#70a5fd" />
+    <circle cx="730" cy="80" r="3" fill="#70a5fd" />
+  </g>
+
+  <!-- Center Branding -->
+  <g transform="translate(400, 90)" text-anchor="middle">
+    <!-- Pulse glowing backdrop for text -->
+    <text class="glowing-title" y="-12" fill="url(#neon-glow)" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="900" letter-spacing="4" filter="url(#neon-filter)">
+      LOU VINCENT
+    </text>
+    <text class="glowing-title" y="-12" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="900" letter-spacing="4">
+      LOU VINCENT
+    </text>
+
+    <!-- Subtitle role -->
+    <text y="24" fill="#24292f" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" letter-spacing="2">
+      FULL STACK ARCHITECT &amp; INFRASTRUCTURE ENGINEER
+    </text>
+
+    <!-- Tech Badges -->
+    <text y="50" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.5">
+      AI-NATIVE DEVELOPMENT  •  CLOUDFLARE EDGE OPTIMIZATION  •  ZERO-BUDGET DEVOPS
+    </text>
+  </g>
+</svg>

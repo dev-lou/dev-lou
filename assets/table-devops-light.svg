@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #73daca; stroke-width: 1; }
+      .text-th { fill: #73daca; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+      .text-layer { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; }
+      .text-td { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 400; }
+      .line { stroke: #e8ecf0; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="798" height="448" x="1" y="1" rx="8" />
+
+  <!-- Headers -->
+  <text x="30" y="35" class="text-th">Tool</text>
+  <text x="200" y="35" class="text-th">Purpose</text>
+  <text x="480" y="35" class="text-th">Impact</text>
+
+  <line class="line" x1="0" y1="50" x2="800" y2="50" />
+
+  <!-- Row 1 -->
+  <text x="30" y="80" class="text-layer">Husky + lint-staged</text>
+  <text x="200" y="80" class="text-td">Pre-commit Lint Gates</text>
+  <text x="480" y="80" class="text-td">Blocks malformed syntax from commits</text>
+  <line class="line" x1="0" y1="100" x2="800" y2="100" />
+
+  <!-- Row 2 -->
+  <text x="30" y="130" class="text-layer">Commitlint</text>
+  <text x="200" y="130" class="text-td">Semantic Validation</text>
+  <text x="480" y="130" class="text-td">Conventional Commits enforcement</text>
+  <line class="line" x1="0" y1="150" x2="800" y2="150" />
+
+  <!-- Row 3 -->
+  <text x="30" y="180" class="text-layer">Changesets</text>
+  <text x="200" y="180" class="text-td">Release Automation</text>
+  <text x="480" y="180" class="text-td">Auto version tags &amp; changelogs</text>
+  <line class="line" x1="0" y1="200" x2="800" y2="200" />
+
+  <!-- Row 4 -->
+  <text x="30" y="230" class="text-layer">CODEOWNERS</text>
+  <text x="200" y="230" class="text-td">Code Reviews</text>
+  <text x="480" y="230" class="text-td">Auto-assigns reviewers by file path</text>
+  <line class="line" x1="0" y1="250" x2="800" y2="250" />
+
+  <!-- Row 5 -->
+  <text x="30" y="280" class="text-layer">Gitleaks CI</text>
+  <text x="200" y="280" class="text-td">Secrets Interceptor</text>
+  <text x="480" y="280" class="text-td">Blocks leaked API keys and credentials</text>
+  <line class="line" x1="0" y1="300" x2="800" y2="300" />
+
+  <!-- Row 6 -->
+  <text x="30" y="330" class="text-layer">Renovate Bot</text>
+  <text x="200" y="330" class="text-td">Dependency Updates</text>
+  <text x="480" y="330" class="text-td">Auto-merges safe patch bumps</text>
+  <line class="line" x1="0" y1="350" x2="800" y2="350" />
+
+  <!-- Row 7 -->
+  <text x="30" y="380" class="text-layer">Socket Security</text>
+  <text x="200" y="380" class="text-td">Threat Blocker</text>
+  <text x="480" y="380" class="text-td">Catches malware &amp; typo-squatting</text>
+  <line class="line" x1="0" y1="400" x2="800" y2="400" />
+
+  <!-- Row 8 -->
+  <text x="30" y="430" class="text-layer">Codium PR Agent</text>
+  <text x="200" y="430" class="text-td">AI Code Reviewer</text>
+  <text x="480" y="430" class="text-td">PR summaries &amp; test suggestions</text>
+
+  <!-- Vertical Dividers -->
+  <line class="line" x1="180" y1="0" x2="180" y2="450" />
+  <line class="line" x1="460" y1="0" x2="460" y2="450" />
+</svg>

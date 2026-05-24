@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60" fill="none">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9e64" />
+      <stop offset="100%" stop-color="#e0af68" />
+    </linearGradient>
+    <style>
+      @keyframes float { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-3px) } }
+      .ico { animation: float 3s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="30" height="60" fill="#ffffff" />
+  <rect x="30" y="2" width="768" height="56" rx="8" fill="#ffffff" stroke="url(#accent)" stroke-width="2" />
+  <g transform="translate(55, 18)">
+    <g class="ico" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M12 2v20 M17 5l-5-3-5 3 M12 22l5 3-5-3-5 3" />
+    </g>
+  </g>
+  <text x="90" y="36" fill="#24292f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700">CLOUDFLARE &amp; EDGE ARCHITECTURE</text>
+  <text x="775" y="36" text-anchor="end" fill="#ff9e64" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">CLICK TO EXPAND ▼</text>
+</svg>

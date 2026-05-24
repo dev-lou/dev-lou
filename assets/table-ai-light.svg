@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" fill="none">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #bb9af7; stroke-width: 1; }
+      .text-th { fill: #bb9af7; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+      .text-layer { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; }
+      .text-td { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 400; }
+      .line { stroke: #e8ecf0; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="798" height="298" x="1" y="1" rx="8" />
+
+  <!-- Headers -->
+  <text x="30" y="35" class="text-th">Tool</text>
+  <text x="200" y="35" class="text-th">Role</text>
+  <text x="480" y="35" class="text-th">Mode</text>
+
+  <line class="line" x1="0" y1="50" x2="800" y2="50" />
+
+  <!-- Row 1 -->
+  <text x="30" y="80" class="text-layer">Antigravity</text>
+  <text x="200" y="80" class="text-td">Autonomous Architect &amp; Agent</text>
+  <text x="480" y="80" class="text-td">Multi-file refactors, automated verification</text>
+  <line class="line" x1="0" y1="100" x2="800" y2="100" />
+
+  <!-- Row 2 -->
+  <text x="30" y="130" class="text-layer">Cursor</text>
+  <text x="200" y="130" class="text-td">Context-Aware Inline Editor</text>
+  <text x="480" y="130" class="text-td">Codebase index refs, structural rules</text>
+  <line class="line" x1="0" y1="150" x2="800" y2="150" />
+
+  <!-- Row 3 -->
+  <text x="30" y="180" class="text-layer">Windsurf</text>
+  <text x="200" y="180" class="text-td">Terminal-Loop Optimizer</text>
+  <text x="480" y="180" class="text-td">File writes, CLI test suites, iterative debugging</text>
+  <line class="line" x1="0" y1="200" x2="800" y2="200" />
+
+  <!-- Row 4 -->
+  <text x="30" y="230" class="text-layer">OpenCode</text>
+  <text x="200" y="230" class="text-td">Local Terminal Inference</text>
+  <text x="480" y="230" class="text-td">Local scripts without public cloud data</text>
+  <line class="line" x1="0" y1="250" x2="800" y2="250" />
+
+  <!-- Row 5 -->
+  <text x="30" y="280" class="text-layer">Zed</text>
+  <text x="200" y="280" class="text-td">High-Velocity Text Editor</text>
+  <text x="480" y="280" class="text-td">Ultra-fast, low-latency code writing</text>
+
+  <!-- Vertical Dividers -->
+  <line class="line" x1="180" y1="0" x2="180" y2="300" />
+  <line class="line" x1="460" y1="0" x2="460" y2="300" />
+</svg>

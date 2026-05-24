@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" fill="none">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #ff9e64; stroke-width: 1; }
+      .text-th { fill: #ff9e64; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+      .text-layer { fill: #24292f; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; }
+      .text-td { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 400; }
+      .text-cost { fill: #9ece6a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; }
+      .line { stroke: #e8ecf0; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="798" height="298" x="1" y="1" rx="8" />
+
+  <!-- Headers -->
+  <text x="30" y="35" class="text-th">Layer</text>
+  <text x="200" y="35" class="text-th">Tactics</text>
+  <text x="480" y="35" class="text-th">Performance Impact</text>
+  <text x="730" y="35" class="text-th">Cost</text>
+
+  <line class="line" x1="0" y1="50" x2="800" y2="50" />
+
+  <!-- Row 1 -->
+  <text x="30" y="80" class="text-layer">Serverless &amp; CDN</text>
+  <text x="200" y="80" class="text-td">Cloudflare Pages &amp; Workers, Tiered Cache</text>
+  <text x="480" y="80" class="text-td">Instant loading, edge compilation</text>
+  <text x="730" y="80" class="text-cost">$0</text>
+  <line class="line" x1="0" y1="100" x2="800" y2="100" />
+
+  <!-- Row 2 -->
+  <text x="30" y="130" class="text-layer">Asset Delivery</text>
+  <text x="200" y="130" class="text-td">Brotli/Gzip, HTTP/3, Early Hints</text>
+  <text x="480" y="130" class="text-td">Egress-free payload transmission</text>
+  <text x="730" y="130" class="text-cost">$0</text>
+  <line class="line" x1="0" y1="150" x2="800" y2="150" />
+
+  <!-- Row 3 -->
+  <text x="30" y="180" class="text-layer">Edge Storage</text>
+  <text x="200" y="180" class="text-td">Neon Serverless, Turso SQLite, Supabase</text>
+  <text x="480" y="180" class="text-td">Millisecond edge query speeds</text>
+  <text x="730" y="180" class="text-cost">$0</text>
+  <line class="line" x1="0" y1="200" x2="800" y2="200" />
+
+  <!-- Row 4 -->
+  <text x="30" y="230" class="text-layer">Edge Guarding</text>
+  <text x="200" y="230" class="text-td">WAF layers, bot intercepts, TLS 1.3</text>
+  <text x="480" y="230" class="text-td">DDoS protection, zero-trust edge</text>
+  <text x="730" y="230" class="text-cost">$0</text>
+  <line class="line" x1="0" y1="250" x2="800" y2="250" />
+
+  <!-- Row 5 -->
+  <text x="30" y="280" class="text-layer">Auto-Devops</text>
+  <text x="200" y="280" class="text-td">Multi-branch staging via DNS routing</text>
+  <text x="480" y="280" class="text-td">Auto-provisioned sandbox envs</text>
+  <text x="730" y="280" class="text-cost">$0</text>
+
+  <!-- Vertical Dividers -->
+  <line class="line" x1="180" y1="0" x2="180" y2="300" />
+  <line class="line" x1="460" y1="0" x2="460" y2="300" />
+  <line class="line" x1="710" y1="0" x2="710" y2="300" />
+</svg>
