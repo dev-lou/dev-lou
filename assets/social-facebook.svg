@@ -3,7 +3,7 @@
     <style>
       .bg { fill: #0d1117; stroke: #0866FF; stroke-width: 1.5; transition: all 0.3s ease; }
       .bg:hover { fill: #1a1b2e; stroke-width: 2.5; filter: drop-shadow(0 0 6px #0866FF80); cursor: pointer; }
-      .text { fill: #a9b1d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1px; }
+      .text { fill: #a9b1d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; }
       @keyframes pulse { 0% { filter: drop-shadow(0 0 2px #0866FF40); } 50% { filter: drop-shadow(0 0 6px #0866FF80); } 100% { filter: drop-shadow(0 0 2px #0866FF40); } }
       .glow-group { animation: pulse 3s infinite; }
     </style>
@@ -14,6 +14,6 @@
     <g transform="translate(15, 8)" stroke="#0866FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
       <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
     </g>
-    <text x="50" y="24" class="text">FACEBOOK</text>
+    <text x="88" y="24" text-anchor="middle" class="text">FACEBOOK</text>
   </g>
 </svg>

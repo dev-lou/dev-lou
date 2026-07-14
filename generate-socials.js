@@ -39,7 +39,7 @@ socials.forEach(s => {
     <style>
       .bg { fill: #0d1117; stroke: ${s.color}; stroke-width: 1.5; transition: all 0.3s ease; }
       .bg:hover { fill: #1a1b2e; stroke-width: 2.5; filter: drop-shadow(0 0 6px ${s.color}80); cursor: pointer; }
-      .text { fill: #a9b1d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1px; }
+      .text { fill: #a9b1d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; }
       @keyframes pulse { 0% { filter: drop-shadow(0 0 2px ${s.color}40); } 50% { filter: drop-shadow(0 0 6px ${s.color}80); } 100% { filter: drop-shadow(0 0 2px ${s.color}40); } }
       .glow-group { animation: pulse 3s infinite; }
     </style>
@@ -50,7 +50,7 @@ socials.forEach(s => {
     <g transform="translate(15, 8)" stroke="${s.color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
       ${s.icon}
     </g>
-    <text x="50" y="24" class="text">${s.name.toUpperCase()}</text>
+    <text x="88" y="24" text-anchor="middle" class="text">${s.name.toUpperCase()}</text>
   </g>
 </svg>`;
   fs.writeFileSync(s.file, svg);
