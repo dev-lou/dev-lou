@@ -35,13 +35,7 @@
   <img src="assets/social-codersrank.svg?v=2" alt="CodersRank Top 1% Worldwide Developer Profile" />
 </picture>
 </a>&nbsp;
-<a href="https://www.facebook.com/theunknownn30">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-facebook.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/social-facebook-light.svg?v=2" />
-  <img src="assets/social-facebook.svg?v=2" alt="Facebook Profile" />
-</picture>
-</a>&nbsp;
+
 <a href="mailto:louvincentj@gmail.com">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/social-gmail.svg?v=2" />
