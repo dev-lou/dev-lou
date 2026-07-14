@@ -40,18 +40,15 @@
 
 <br/>
 
-### 👨‍💻 About Me
-
-**CTO of Syntaxure Labs | AI-Native Full-Stack Developer | Top 1% Worldwide**
-
-I am an IT professional and 0-to-1 builder specializing in AI-native web applications and high-performance backend architecture. I am officially ranked in the **Top 1% of Developers Worldwide** and **#23 in the Philippines** by CodersRank. At [Syntaxure Labs](https://syntaxure.dev), I lead technical architecture, focusing on shipping scalable, production-ready systems that solve real business problems. 
-
-I build **production-ready, SEO-optimized** web platforms, mobile apps, and AI engines — all deployed on **100% free-tier infrastructure** leveraging GitHub Student benefits, Cloudflare, and free-tier AI IDEs. **Every project is live. Zero dollars spent.**
-
-### 🌐 Connect with me:
-- **Portfolio:** [louvincentbaroro.me](https://louvincentbaroro.me)
-- **LinkedIn:** [Lou Vincent Baroro](https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/)
-- **CodersRank:** [Top 1% Developer Stats](https://profile.codersrank.io/user/dev-lou)
+<div align="center">
+  <p>
+    <b>CTO @ <a href="https://syntaxure.dev">Syntaxure Labs</a> &nbsp;|&nbsp; AI-Native Full-Stack Developer &nbsp;|&nbsp; Top 1% Worldwide</b>
+  </p>
+  <p>
+    I build <b>production-ready, SEO-optimized</b> web platforms, mobile apps, and AI engines — all deployed on <b>100% free-tier infrastructure</b> leveraging GitHub Student benefits, Cloudflare, and free-tier AI IDEs. Every project is live. Zero dollars spent.<br/><br/>
+    Officially ranked in the <b>Top 1% of Developers Worldwide</b> and <b>#23 in the Philippines</b> by <a href="https://profile.codersrank.io/user/dev-lou">CodersRank</a>. Leading technical architecture and focusing on shipping scalable, production-ready systems that solve real business problems. View my full portfolio at <b><a href="https://louvincentbaroro.me">louvincentbaroro.me</a></b>.
+  </p>
+</div>
 
 <br/>
 
