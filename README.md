@@ -21,7 +21,7 @@
   <img src="assets/social-portfolio.svg?v=2" alt="Lou Vincent Baroro Personal Portfolio Website" />
 </picture>
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/">
+<a href="https://www.linkedin.com/in/louvincentbaroro/">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin.svg?v=2" />
   <source media="(prefers-color-scheme: light)" srcset="assets/social-linkedin-light.svg?v=2" />
