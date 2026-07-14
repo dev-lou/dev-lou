@@ -16,37 +16,37 @@
 
 <a href="https://louvincentbaroro.me">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-portfolio.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/social-portfolio-light.svg" />
-  <img src="assets/social-portfolio.svg" alt="Lou Vincent Baroro Personal Portfolio Website" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-portfolio.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-portfolio-light.svg?v=2" />
+  <img src="assets/social-portfolio.svg?v=2" alt="Lou Vincent Baroro Personal Portfolio Website" />
 </picture>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/social-linkedin-light.svg" />
-  <img src="assets/social-linkedin.svg" alt="LinkedIn Profile" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-linkedin-light.svg?v=2" />
+  <img src="assets/social-linkedin.svg?v=2" alt="LinkedIn Profile" />
 </picture>
 </a>&nbsp;
 <a href="https://profile.codersrank.io/user/dev-lou">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-codersrank.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/social-codersrank-light.svg" />
-  <img src="assets/social-codersrank.svg" alt="CodersRank Top 1% Worldwide Developer Profile" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-codersrank.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-codersrank-light.svg?v=2" />
+  <img src="assets/social-codersrank.svg?v=2" alt="CodersRank Top 1% Worldwide Developer Profile" />
 </picture>
 </a>&nbsp;
 <a href="https://www.facebook.com/theunknownn30">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-facebook.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/social-facebook-light.svg" />
-  <img src="assets/social-facebook.svg" alt="Facebook Profile" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-facebook.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-facebook-light.svg?v=2" />
+  <img src="assets/social-facebook.svg?v=2" alt="Facebook Profile" />
 </picture>
 </a>&nbsp;
 <a href="mailto:louvincentj@gmail.com">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-gmail.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/social-gmail-light.svg" />
-  <img src="assets/social-gmail.svg" alt="Email Me" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-gmail.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-gmail-light.svg?v=2" />
+  <img src="assets/social-gmail.svg?v=2" alt="Email Me" />
 </picture>
 </a>
 
