@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=680&height=50&lines=Full+Stack+Web+%26+Mobile+Architect;AI-Native+%7C+Zero-Budget+Infrastructure;CTO+%26+Co-Founder+%40+Syntaxure+Labs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=680&height=50&lines=Top+1%25+Worldwide+Developer;Full+Stack+Web+%26+Mobile+Architect;AI-Native+%7C+Zero-Budget+Infrastructure;CTO+%26+Co-Founder+%40+Syntaxure+Labs)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,7 +40,18 @@
 
 <br/>
 
+### 👨‍💻 About Me
+
+**CTO of Syntaxure Labs | AI-Native Full-Stack Developer | Top 1% Worldwide**
+
+I am an IT professional and 0-to-1 builder specializing in AI-native web applications and high-performance backend architecture. I am officially ranked in the **Top 1% of Developers Worldwide** and **#23 in the Philippines** by CodersRank. At [Syntaxure Labs](https://syntaxure.dev), I lead technical architecture, focusing on shipping scalable, production-ready systems that solve real business problems. 
+
 I build **production-ready, SEO-optimized** web platforms, mobile apps, and AI engines — all deployed on **100% free-tier infrastructure** leveraging GitHub Student benefits, Cloudflare, and free-tier AI IDEs. **Every project is live. Zero dollars spent.**
+
+### 🌐 Connect with me:
+- **Portfolio:** [louvincentbaroro.me](https://louvincentbaroro.me)
+- **LinkedIn:** [Lou Vincent Baroro](https://www.linkedin.com/in/lou-vincent-baroro-7b4a9630b/)
+- **CodersRank:** [Top 1% Developer Stats](https://profile.codersrank.io/user/dev-lou)
 
 <br/>
 
