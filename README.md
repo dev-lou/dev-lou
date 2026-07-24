@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v3.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-v3-light.svg" />
-  <img src="assets/banner-v3.svg" width="100%" alt="dev-lou — Full Stack Architect & AI-Native Developer" />
+  <img src="assets/banner-v3.svg" width="100%" alt="dev-lou — Full Stack Architect & "AI-Augmented Developer" />
 </picture>
 
 
@@ -50,7 +50,7 @@
 
 <div align="center">
   <p>
-    <b>CTO @ Syntaxure Labs &nbsp;|&nbsp; AI-Native Full-Stack Developer &nbsp;|&nbsp; Top 1% Worldwide</b>
+    <b>CTO @ Syntaxure Labs &nbsp;|&nbsp; AI-Augmented Full-Stack Developer &nbsp;|&nbsp; Top 1% Worldwide</b>
   </p>
   <p>
     I build <b>production-ready, SEO-optimized</b> web platforms, mobile apps, and AI engines — all deployed on <b>100% free-tier infrastructure</b> leveraging GitHub Student benefits, Cloudflare, and free-tier AI IDEs. Every project is live. Zero dollars spent.<br/><br/>
